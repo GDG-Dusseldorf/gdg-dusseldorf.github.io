@@ -19,7 +19,7 @@ googleAnalyticsSiteUrl: "gdg-dusseldorf.github.io"
 organizerName: "GDG Düsseldorf"
 organizerAlternateName: "Google Developer Group Düsseldorf"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: ""
+organizerEmail: "devfest2014@4k2.de"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://plus.google.com/107373371386267684213/"
 
@@ -32,18 +32,19 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "/become_speaker"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/become_speaker"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/team/", text: "Team"}
+# - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 # - {permalink: "/become_speaker/", text: "Become a speaker"}
 bottomNavigationLinks:
  - {permalink: "/become_speaker", text: "Become a speaker"}
