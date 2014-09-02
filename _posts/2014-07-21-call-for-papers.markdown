@@ -56,7 +56,7 @@ __General__
 * Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
+#### Please submit your proposals [here](/become_speaker).
 __Deadline__ is September 1, 2014
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
