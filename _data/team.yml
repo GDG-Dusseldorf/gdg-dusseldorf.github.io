@@ -1,60 +1,70 @@
-# - 
-#   id: 0
-#   name: "Vitaliy"
-#   surname: "Zasadnyy"
-#   title: "Sponsors and Speakers Manager"
-#   thumbnailUrl: VitaliyZasadnyy.jpg
-#   team: true
-#   ribbon: 
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social: 
-#     - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-#     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-#     - {name: "github", link: "https://github.com/zasadnyy"}
-#     - {name: "site", link: "http://zasadnyy.com/"}
-# - 
-#   id: 1
-#   name: "Oleh"
-#   surname: "Zasadnyy"
-#   title: "Designer and Web Developer"
-#   thumbnailUrl: OlehZasadnyy.jpg
-#   team: true
-#   ribbon: 
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social: 
-#     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-#     - {name: "github", link: "https://github.com/ozasadnyy"}
-# - 
-#   id: 2
-#   name: "Ostap"
-#   surname: "Andrusiv"
-#   title: "Sponsors and Speakers Manager"
-#   thumbnailUrl: OstapAndrusiv.jpg
-#   team: true
-#   ribbon: 
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social: 
-#     - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-#     - {name: "twitter", link: "https://twitter.com/p1f"}
-#     - {name: "site", link: "http://andrusiv.com/"}
-# - 
-#   id: 4
-#   name: "Dmytro"
-#   surname: "Danylyk"
-#   title: "Android Program Committee"
-#   thumbnailUrl: DmytroDanylyk.jpg
-#   subTeam: true
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
-# - 
-#   id: 7
-#   name: "Valentyn"
-#   surname: "Shybanov"
-#   title: "Web and Cloud Program Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
-#   social: 
-#     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#     - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 1
+  name: "Randy"
+  surname: "Gupta"
+  title: "GDG Düsseldorf"
+  thumbnailUrl: anonymous.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+RandyGupta"}
+#    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "github", link: "https://github.com/scaratec"}
+#    - {name: "site", link: "http://"}
+- 
+  id: 2
+  name: "Resul"
+  surname: "Kocyigit"
+  title: "GDG Düsseldorf"
+  thumbnailUrl: anonymous.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ResulKocyigit"}
+#    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "github", link: "https://github.com/luserdroid"}
+#    - {name: "site", link: "http://"}
+- 
+  id: 4
+  name: "Johan"
+  surname: "Bové"
+  title: "GDG Düsseldorf"
+  thumbnailUrl: JohanBove.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+JohanBové"}
+    - {name: "twitter", link: "http://twitter.com/johanbove"}
+    - {name: "github", link: "https://github.com/johanbove"}
+    - {name: "site", link: "http://johanbove.info/"}
+- 
+  id: 5
+  name: "Jens"
+  surname: "Hauke"
+  title: "GDG Düsseldorf"
+  thumbnailUrl: JensHauke.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+JensHauke"}
+#    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/jensh"}
+    - {name: "site", link: "http://www.4k2.de/"}
+#- 
+#  id: 100
+#  name: ""
+#  surname: ""
+#  title: "GDG Düsseldorf"
+#  thumbnailUrl: anonymous.jpg
+#  team: true
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+"}
+#    - {name: "twitter", link: "http://twitter.com/"}
+#    - {name: "github", link: "https://github.com/"}
+#    - {name: "site", link: "http://"}
