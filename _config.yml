@@ -35,6 +35,7 @@ c4pUrl: "/become_speaker"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 c4sponsorsUrl: "/become_sponsor"
 
+becomeSpeakerUrl: "https://docs.google.com/forms/d/1S-z8tlsSXZy0_CvbbeurBVHW1-I1fL_BNSJUhD57Ckc/viewform"
 
 # Navigation
 navigationLinks:
