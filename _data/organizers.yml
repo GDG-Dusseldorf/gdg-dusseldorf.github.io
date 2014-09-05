@@ -6,6 +6,7 @@
       description: "GDG Düsseldorf - Open and volunteer geek community"
       link: "https://plus.google.com/107373371386267684213/"
       imageUrl: "gdg-dus.png"
+      width: 100%
 #- 
 #  group: "Co-organizers"
 #  elements: 
