@@ -55,7 +55,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
-eventDate: "October, 2014"
+eventDate: "October 28th, 2014"
 typeoutTextValues: '"", "Season", "USA", "Germany", "Düsseldorf"'
 typeoutFallback: "Season"
 heroButtons:
@@ -95,9 +95,9 @@ eventAddressLocality: "Düsseldorf"
 eventAddressLocalityRegion: ""
 eventPostalCode: "40215"
 eventAddressCountry: "Germany"
-eventStartTime: "2014-01-01T10:00"
+eventStartTime: "2014-10-28T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-01-01T18:00"
+eventEndTime: "2014-10-28T18:00"
 eventPlaceCoordinates: "51.209559,6.780611"
 mapCenterCoordinates: "51.209559,6.780611"
 mapMobileCenterCoordinates: "51.209559,6.780611"
