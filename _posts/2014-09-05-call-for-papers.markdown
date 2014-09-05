@@ -21,9 +21,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 #### Please submit your proposals [here]({{ "/become_speaker" | prepend: site.baseurl | prepend: site.url }}).
 __Deadline__ is October 1, 2014
 
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
-
-The program committee picks the most interesting talk proposals and informs the selected submitters until October 15, 2014.<br/>
+__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!
 
 #### Any questions? 
 Email organizers at [{{site.organizerEmail}}](mailto:{{site.organizerEmail}})
