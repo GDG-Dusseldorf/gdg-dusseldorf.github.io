@@ -3,7 +3,7 @@
   name: "Randy"
   surname: "Gupta"
   title: "GDG Düsseldorf"
-  thumbnailUrl: anonymous.jpg
+  thumbnailUrl: RandyGupta.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
