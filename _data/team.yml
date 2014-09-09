@@ -2,11 +2,13 @@
   id: 1
   name: "Randy"
   surname: "Gupta"
-  title: "GDG Düsseldorf"
+  title: "Senior Software Architect JEE"
+  company: "SCARATEC IT-Consulting GmbH"
   thumbnailUrl: RandyGupta.jpg
   team: true
+  bio: ""
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "GDG Düsseldorf", url: "https://plus.google.com/communities/113782579160655007812" }
   social: 
     - {name: "google-plus", link: "https://google.com/+RandyGupta"}
 #    - {name: "twitter", link: "http://twitter.com/"}
@@ -16,11 +18,12 @@
   id: 2
   name: "Resul"
   surname: "Kocyigit"
-  title: "GDG Düsseldorf"
+  title: "Android Developer"
   thumbnailUrl: ResulKocyigit.jpg
   team: true
+  bio: ""
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "GDG Düsseldorf", url: "https://plus.google.com/communities/113782579160655007812" }
   social: 
     - {name: "google-plus", link: "https://google.com/+ResulKocyigit"}
 #    - {name: "twitter", link: "http://twitter.com/"}
@@ -30,11 +33,12 @@
   id: 4
   name: "Johan"
   surname: "Bové"
-  title: "GDG Düsseldorf"
+  title: "Front End Web Developer"
   thumbnailUrl: JohanBove.jpg
   team: true
+  bio: "Johan is a front end web developer passionate about media and technology He is from Belgium, speaks three languages and has over fifteen years of professional experience developing successful high-performance websites."
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "GDG Düsseldorf", url: "https://plus.google.com/communities/113782579160655007812" }
   social: 
     - {name: "google-plus", link: "https://google.com/+JohanBové"}
     - {name: "twitter", link: "http://twitter.com/johanbove"}
@@ -44,11 +48,12 @@
   id: 5
   name: "Jens"
   surname: "Hauke"
-  title: "GDG Düsseldorf"
+  title: "Software Developer - Linux and Android"
   thumbnailUrl: JensHauke.jpg
   team: true
+  bio: ""
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "GDG Düsseldorf", url: "https://plus.google.com/communities/113782579160655007812" }
   social: 
     - {name: "google-plus", link: "https://google.com/+JensHauke"}
 #    - {name: "twitter", link: "https://twitter.com/"}

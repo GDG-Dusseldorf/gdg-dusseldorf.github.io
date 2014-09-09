@@ -28,6 +28,10 @@
         {% include sessions-modals.html %} 
     {% endif %} 
 
+    {% if page.permalink == '/team/' %}
+        {% include team-modals.html %} 
+    {% endif %} 
+    
     {% include analytics.html %}
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
