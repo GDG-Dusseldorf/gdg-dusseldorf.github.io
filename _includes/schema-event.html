@@ -38,6 +38,7 @@
         //     "email" : "{{ site.organizerEmail }}",
         //     "sameAs" : "{{ site.organizerLink }}"
         // },
+     {% comment %}
         "subEvent" : {
             "@type" : "Event",
             "name" : "{{ site.hackathonTitle }}",
@@ -80,6 +81,7 @@
         }{% if forloop.index != forloop.length %},{% endif %}
         {% endfor %} 
         ],
+     {% endcomment %}
         "performer" : [ 
         {% for speaker in site.data.speakers %}
         {
