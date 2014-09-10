@@ -9,10 +9,10 @@ title: "GDG DevFest Season 2014"
 email: "devfest2014@4k2.de"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/DevFest2014"
-url: "http://gdg-dusseldorf.github.io"
+url: "http://www.gdg-dus.de"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-54645604-1"
-googleAnalyticsSiteUrl: "gdg-dusseldorf.github.io"
+googleAnalyticsSiteUrl: "www.gdg-dus.de"
 
 # Organizer Info
 organizerName: "GDG Düsseldorf"
