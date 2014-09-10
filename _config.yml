@@ -42,7 +42,7 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 # - {permalink: "/become_speaker/", text: "Become a speaker"}
