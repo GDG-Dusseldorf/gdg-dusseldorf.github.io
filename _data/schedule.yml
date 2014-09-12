@@ -2,9 +2,7 @@
   date: "2014-10-26"
   dateReadable: "October 26"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Sessions", color: "#90be4e"}
   timeslots:
     - { # Coming soon ...
     	startTime: "10:00",
@@ -12,33 +10,33 @@
     	sessionIds: [703]
     }
     - { # Docker, Dittmar (30min)
-    	startTime: "10:00",
-    	endTime: "18:00",
+    	startTime: ":",
+    	endTime: ":",
     	sessionIds: [101]
     }
     - { # Google Go, Dittmar (10min)
-    	startTime: "10:00",
-    	endTime: "18:00",
+    	startTime: ":",
+    	endTime: ":",
     	sessionIds: [102]
     }
     - { # Micro-Services, Dittmar (30min)
-    	startTime: "10:00",
-    	endTime: "18:00",
+    	startTime: ":",
+    	endTime: ":",
     	sessionIds: [103]
     }
     - { # Android L - Notifications, Wolfram (45min)
-    	startTime: "10:00",
-    	endTime: "18:00",
+    	startTime: ":",
+    	endTime: ":",
     	sessionIds: [111]
     }
     - { # Playing with Material Design Pascal (45min)
-    	startTime: "10:00",
-    	endTime: "18:00",
+    	startTime: ":",
+    	endTime: ":",
     	sessionIds: [121]
     }
     - { # Build Wearable Apps, Frederik (45min)
-    	startTime: "10:00",
-    	endTime: "18:00",
+    	startTime: ":",
+    	endTime: ":",
     	sessionIds: [131]
     }
 # - 
