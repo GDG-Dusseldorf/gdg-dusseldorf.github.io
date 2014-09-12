@@ -11,7 +11,7 @@ GDG Düsseldorf
 
 Vertreten durch: Randy Gupta
 
-Kontakt: e-Mail: devfest2014@4k2.de
+Kontakt: e-Mail: info@gdg-dus.de
 
 <br>
 
