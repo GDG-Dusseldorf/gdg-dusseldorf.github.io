@@ -9,42 +9,97 @@
   place: "Dining room"
   service: true
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
+  id: 703
+  title: "Coming soon"
+  place: "Lounge"
+  service: true
 -
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Beginner"
+  id: 101
+  length: 30
+  title: "Docker"
+  description: "...and the impact on developer teams. Gaining focus, quality, stability and even saving some time."
+  speakers: [10]
 -
-  id: 003
-  title: "The world is your playground - go global with Google"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Expert"
+  id: 102
+  length: 10
+  title: "Google Go"
+  description: "The workhorse in your system."
+  speakers: [10]
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
+  id: 103
+  length: 30
+  title: "Micro-Services"
+  description: "A quick overview of ideas, an approach of a definition and room for re-thinking architectural landscapes.
+It will cover pros and cons, the intended limitations, the targeted problems and problems that won't be solved anyway.
+I hope for a passionate discussion!"
+  speakers: [10]
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
+  id: 111
+  length: 45
+  title: "Android L - Notifications"
+  description: "A short introduction to the changes around Android L notifications.
+<ul>
+  <li>Heads-on notifications</li>
+  <li>Lock screen notifications</li>
+  <li>New design of notifications</li>
+</ul>"
+  speakers: [11]
+-
+  id: 121
+  length: 45
+  title: "Playing with Material Design"
+  description: "I played around with the new Android L Material Design. I'd like to share my experiences with the new APIs. Here are some of my topics I's like to cover in my presentation:
+<ul>
+  <li>shadows (z index)</li>
+  <li>Activity Transitions</li>
+  <li>Ripples (and styles)</li>
+  <li>RecyclerView (very short)</li>
+</ul>"
+  speakers: [12]
+-
+  id: 131
+  length: 45
+  title: "Build Wearable Apps"
+  description: "A short introduction on how to create wearable apps which run natively on Android Wear!"
+  speakers: [13]
+
+# -
+#   id: 001
+#   title: "Material design: Visual style and imagery"
+#   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+#   subtype: workshop
+#   speakers: [3, 6]
+#   language: en
+#   complexity: "Intermediate"
+# -
+#   id: 002
+#   title: "Building Cloud-powered wearable Apps"
+#   description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
+#   subtype: presentation
+#   speakers: [4, 5]
+#   language: en
+#   complexity: "Beginner"
+# -
+#   id: 003
+#   title: "The world is your playground - go global with Google"
+#   description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+#   subtype: presentation
+#   speakers: [4]
+#   language: en
+#   complexity: "Expert"
+# -
+#   id: 004
+#   title: "Polymer: Interacting with Google Services using nothing but HTML"
+#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+#   subtype: keynote
+#   speakers: [6]
+#   language: uk
+#   complexity: "Beginner"
+# -
+#   id: 005
+#   title: "Test: Interacting with Google Services using nothing but HTML"
+#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+#   subtype: keynote
+#   speakers: [7]
+#   language: en
+#   complexity: "Expert"

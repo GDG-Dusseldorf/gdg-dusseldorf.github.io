@@ -1,50 +1,70 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2014-10-26"
+  dateReadable: "October 26"
   tracks: 
     - {title: "Android", color: "#90be4e"}
     - {title: "Web & Cloud", color: "#03a9f4"}
     - {title: "Community", color: "#e91e63"}
   timeslots:
-    - {
+    - { # Coming soon ...
     	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	endTime: "18:00",
+    	sessionIds: [703]
     }
-    - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
-    }
-    - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
-    - {
+    - { # Docker, Dittmar (30min)
     	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+    	endTime: "18:00",
+    	sessionIds: [101]
     }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
+    - { # Google Go, Dittmar (10min)
+    	startTime: "10:00",
+    	endTime: "18:00",
+    	sessionIds: [102]
     }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+    - { # Micro-Services, Dittmar (30min)
+    	startTime: "10:00",
+    	endTime: "18:00",
+    	sessionIds: [103]
     }
-    - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    - { # Android L - Notifications, Wolfram (45min)
+    	startTime: "10:00",
+    	endTime: "18:00",
+    	sessionIds: [111]
     }
+    - { # Playing with Material Design Pascal (45min)
+    	startTime: "10:00",
+    	endTime: "18:00",
+    	sessionIds: [121]
+    }
+    - { # Build Wearable Apps, Frederik (45min)
+    	startTime: "10:00",
+    	endTime: "18:00",
+    	sessionIds: [131]
+    }
+# - 
+#   date: "2014-10-25"
+#   dateReadable: "October 25"
+#   tracks: 
+#     - {title: "Android", color: "#90be4e"}
+#     - {title: "Web & Cloud", color: "#03a9f4"}
+#   timeslots: 
+#     - {
+#     	startTime: "10:00",
+#     	endTime: "10:45",
+#     	sessionIds: [404, 002]
+#     }
+#     - {
+#     	startTime: "11:00",
+#     	endTime: "11:45",
+#     	sessionIds: [002, 003]
+#     }
+#     - {
+#         startTime: "13:00",
+#         endTime: "13:45",
+#         sessionIds: [003]
+#     }
+#     - {
+#     	startTime: "14:00",
+#     	endTime: "15:00",
+#     	sessionIds: [503]
+#     }
