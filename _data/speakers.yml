@@ -1,3 +1,74 @@
+-
+  id: 10
+  name: Dittmar
+  surname: Steiner
+  company: ""
+  title: "Java and Android Developer"
+  bio: "Long story..."
+  thumbnailUrl: DittmarSteiner.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DittmarSteiner"}
+-
+  id: 11
+  name: Wolfram
+  surname: Rittmeyer
+  company: ""
+  title: "Android and Java Developer"
+  bio: ""
+  thumbnailUrl: WolframRittmeyer.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+  social: 
+    - {name: "google-plus", link: "https://plus.gogle.com/+WolframRittmeyer"}
+    - {name: "twitter", link: "https://twitter.com/RittmeyerW"}
+    - {name: "site", link: "http://www.grokkingandroid.com"}
+-
+  id: 12
+  name: Pascal
+  surname: Welsch
+  company: "grandcentrix GmbH"
+  title: "Android Developer"
+  bio: "Android Native living in Cologne. Started with the Motorola Droid and continued developing Android Apps for 4 years now."
+  thumbnailUrl: PascalWelsch.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+    - {abbr: "grandcentrix", title: "grandcentrix GmbH", url: "http://www.grandcentrix.net/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+PascalWelsch"}
+    - {name: "twitter", link: "https://twitter.com/passsy"}
+    - {name: "github", link: "https://github.com/passsy/"}
+-
+  id: 13
+  name: Frederik
+  surname: Schweiger
+  company: ""
+  title: "Android Geek"
+  bio: ""
+  thumbnailUrl: FrederikSchweiger.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+  social: 
+    - {name: "google-plus", link: "www.google.com/+FrederikSchweiger"}
+# -
+#   id: 99
+#   name:
+#   surname:
+#   company:
+#   title:
+#   bio:
+#   thumbnailUrl:
+#   rockstar: true
+#   social: 
+#     - {name: "google-plus", link: ""}
+#     - {name: "twitter", link: ""}
+#     - {name: "github", link: ""}
+#     - {name: "site", link: ""}
 # - 
 #   id: 3
 #   name: "Dawid"
