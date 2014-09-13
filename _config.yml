@@ -129,8 +129,9 @@ subscribeAction: ""
 subscribeInfo: ""
 
 # Tickets Block
-#ticketsTitle: "Pricetable"
-#ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Free Entry!"
+ticketsInfo: "This is a free event. No admission fee will be charged."
+
 #ticketsOffers:
 # -
 #  name: "Early Bird"
