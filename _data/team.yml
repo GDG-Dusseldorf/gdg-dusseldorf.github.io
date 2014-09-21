@@ -29,21 +29,21 @@
 #    - {name: "twitter", link: "http://twitter.com/"}
     - {name: "github", link: "https://github.com/luserdroid"}
 #    - {name: "site", link: "http://"}
-- 
-  id: 4
-  name: "Johan"
-  surname: "Bové"
-  title: "Front End Web Developer"
-  thumbnailUrl: JohanBove.jpg
-  team: true
-  bio: "Johan is a front end web developer passionate about media and technology. He is from Belgium, speaks three languages and has over fifteen years of professional experience developing successful high-performance websites."
-  ribbon: 
-    - {abbr: "GDG", title: "GDG Düsseldorf", url: "https://plus.google.com/communities/113782579160655007812" }
-  social: 
-    - {name: "google-plus", link: "https://google.com/+JohanBové"}
-    - {name: "twitter", link: "http://twitter.com/johanbove"}
-    - {name: "github", link: "https://github.com/johanbove"}
-    - {name: "site", link: "http://johanbove.info/"}
+#- 
+#  id: 4
+#  name: "Johan"
+#  surname: "Bové"
+#  title: "Front End Web Developer"
+#  thumbnailUrl: JohanBove.jpg
+#  team: true
+#  bio: "Johan is a front end web developer passionate about media and technology. He is from Belgium, speaks three languages and has over fifteen years of professional experience developing successful high-performance websites."
+#  ribbon: 
+#    - {abbr: "GDG", title: "GDG Düsseldorf", url: "https://plus.google.com/communities/113782579160655007812" }
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+JohanBové"}
+#    - {name: "twitter", link: "http://twitter.com/johanbove"}
+#    - {name: "github", link: "https://github.com/johanbove"}
+#    - {name: "site", link: "http://johanbove.info/"}
 - 
   id: 5
   name: "Jens"

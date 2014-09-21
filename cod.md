@@ -13,8 +13,8 @@ GDG Düsseldorf prides itself on being an open, respectful, and inclusive commun
 If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
 
 
-######Contacts:
+######Contact:
 
-- Johan Bové, +49 1577 9 333179, [gdg@johanbove.info](mailto:gdg@johanbove.info)
+- [info@gdg-dus.de](mailto:info@gdg-dus.de)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
