@@ -55,6 +55,21 @@
     - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
   social: 
     - {name: "google-plus", link: "www.google.com/+FrederikSchweiger"}
+-
+  id: 14
+  name: Georg
+  surname: Zweschper
+  company: ""
+  title: "Programmer"
+  bio: "Education as mathematics/politics teacher
+Systems and application programmer"
+  thumbnailUrl: GeorgZweschper.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/101778874759352612931"}
+
 # -
 #   id: 99
 #   name:
