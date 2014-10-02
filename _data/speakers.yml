@@ -97,6 +97,23 @@ Systems and application programmer"
     - {abbr: "grandcentrix", title: "grandcentrix GmbH", url: "http://www.grandcentrix.net/"}
   social: 
     - {name: "twitter", link: "https://twitter.com/BrianLRamirez"}
+-
+  id: 17
+  name: Nabil
+  surname: Ben Said
+  company:
+  title: "Pragmatic and passionate software architect"
+  bio: "Nabil studied computer science at the technical university Dortmund. He looks back on more than 10 years of professional career as a software developer, software architect and mobile application developer. Today he is leading the mobile application development team at an international full service provider company for mobile value-added services and payment solutions."
+  thumbnailUrl: NabilBenSaid.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+NabilBenSaid"}
+    - {name: "twitter", link: "https://twitter.com/nbensaid"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nabilbensaid"}
+    - {name: "facebook", link: "https://www.facebook.com/nabil.bensaid"}
+    - {name: "site", link: "https://www.xing.com/profile/Nabil_BenSaid"}
 
 # -
 #   id: 99

@@ -74,6 +74,13 @@ I hope for a passionate discussion!"
   title: "Color, Code, Collaboration - Best Practices for Working with Designers"
   description: "In general, designers turn vague ideas into visual concepts, while developers turn concepts into something concrete. So how do you get everyone speaking the same language to get awesome results? We'll talk about what works and what doesn't."
   speakers: [15,16]
+-
+  id: 171
+  length: 40
+  title: "Android TV"
+  description: "Google announced in his last I/O 2014 developer conference the new Android TV and the next step of Android to enter the living room.
+This talk provides an introduction in Android TV and the new lean back user interface, it shows how to implement Android TV apps and what must be considered when applying the material design guidelines."
+  speakers: [17]
 
 # -
 #   id: 001
