@@ -44,6 +44,11 @@
     	endTime: ":",
     	sessionIds: [141]
     }
+    - { # Color, Code, Collaboration - Best Practices for Working with Designers (15min)
+    	startTime: ":",
+    	endTime: ":",
+    	sessionIds: [151]
+    }
 # - 
 #   date: "2014-10-25"
 #   dateReadable: "October 25"

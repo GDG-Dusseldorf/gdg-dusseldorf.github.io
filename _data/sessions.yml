@@ -68,6 +68,12 @@ I hope for a passionate discussion!"
   title: "Machine Learning - Creating smart apps for smart devices"
   description: "Artificial intelligence and automated learning is a scientific approach to turn computers into smart machines, being capable to use acquired knowledge to master tasks autonomously, thus without instruction or supervision. The fundamental laws of learning theory apply in the same way as for animals or humans, where thorough knowledge has been acquired and used in education for decades. Though still a lot of mathematical and statistical methods are widely used for data analysis and processing, the focus is shifting towards the aspects of perception, training and optimization. Knowledge extraction and representation becomes an evolutionary process, the concluded behavioural rules being developed by adapting and improving them continuously while being used. After giving birth to new intelligent computer species by programmed code, they need education before and during their professional career serving us, others or themselves. The technical art of coding is complemented by the task of how to properly feed and train our electronic kids."
   speakers: [14]
+-
+  id: 151
+  length: 15
+  title: "Color, Code, Collaboration - Best Practices for Working with Designers"
+  description: "In general, designers turn vague ideas into visual concepts, while developers turn concepts into something concrete. So how do you get everyone speaking the same language to get awesome results? We'll talk about what works and what doesn't."
+  speakers: [15,16]
 
 # -
 #   id: 001

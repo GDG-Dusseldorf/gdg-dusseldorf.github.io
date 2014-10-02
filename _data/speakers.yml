@@ -69,6 +69,34 @@ Systems and application programmer"
     - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/101778874759352612931"}
+-
+  id: 15
+  name: Dennis
+  surname: Priess
+  company: "grandcentrix GmbH"
+  title: "Android Developer"
+  bio: "Professional Android Developer since 2 years"
+  thumbnailUrl: DennisPriess.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+    - {abbr: "grandcentrix", title: "grandcentrix GmbH", url: "http://www.grandcentrix.net/"}
+  social: 
+    - {name: "google-plus", link: "google.com/+DennisPrieß84"}
+-
+  id: 16
+  name: Brian
+  surname: Ramirez
+  company: "grandcentrix GmbH"
+  title: "UX Designer"
+  bio: "UX Designer with an interest in coding"
+  thumbnailUrl: BrianRamirez.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+    - {abbr: "grandcentrix", title: "grandcentrix GmbH", url: "http://www.grandcentrix.net/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/BrianLRamirez"}
 
 # -
 #   id: 99
