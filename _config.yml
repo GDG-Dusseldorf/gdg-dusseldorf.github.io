@@ -184,7 +184,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:devfest2014@4k2.de", text: "devfest2014@4k2.de"}
+   - {link: "mailto:info@gdg-dus.de", text: "info@gdg-dus.de"}
    - {permalink: "/impressum/", text: "Impressum"}
  -
   title: "FAQ"
