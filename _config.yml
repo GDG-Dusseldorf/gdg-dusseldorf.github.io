@@ -49,7 +49,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {permalink: "/become_speaker", text: "Become a speaker"}
 rightNavigationButtons:
- - {permalink: "/become_speaker", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -59,6 +59,7 @@ typeoutTextValues: '"", "Season", "USA", "Germany", "Düsseldorf"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/become_speaker", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Register - It's free!"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -130,20 +131,21 @@ subscribeInfo: ""
 
 # Tickets Block
 ticketsTitle: "Free Entry!"
-ticketsInfo: "This is a free event. No admission fee will be charged."
-
-#ticketsOffers:
-# -
-#  name: "Early Bird"
-#  price: "350"
-#  priceCurrency: "UAH"
-#  ticketsNumber: "150"
-#  ribbon: "-5%"
-#  buyButtonLink: "http://dfua.ticketforevent.com/"
-#  buyButtonText: "Buy Now"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-25T10:00"
-#  validThrough: "2014-09-30T23:59"
+ticketsInfo: "Thank our <a href=\"#partners\">sponsors</a>! This is a free event, but registration is required."
+  
+ticketsOffers:
+ -
+  name: "Say 'Yes' at our Google+ event."
+  price: ""
+  priceCurrency: ""
+  ticketsNumber: "100"
+  ribbon: "Google+"
+  buyButtonLink: "https://plus.google.com/b/107373371386267684213/events/c23pd8anqjk3n7moln67d1g4sec"
+  buyButtonText: "Register with Google+"
+  ticketContentList: [""]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-10-26T10:00"
+#  disabled: true
 # -
 #  name: "Last Chance"
 #  price: "450"
