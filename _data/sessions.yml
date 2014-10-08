@@ -81,6 +81,12 @@ I hope for a passionate discussion!"
   description: "Google announced in his last I/O 2014 developer conference the new Android TV and the next step of Android to enter the living room.
 This talk provides an introduction in Android TV and the new lean back user interface, it shows how to implement Android TV apps and what must be considered when applying the material design guidelines."
   speakers: [17]
+-
+  id: 181
+  length: 40
+  title: "Polymer.dart"
+  description: "Use polymer.dart - a Dart port of Polymer — to build structured, encapsulated, client-side web apps with Dart and web components."
+  speakers: [18]
 
 # -
 #   id: 001

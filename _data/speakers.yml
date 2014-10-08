@@ -114,6 +114,22 @@ Systems and application programmer"
     - {name: "linkedin", link: "https://www.linkedin.com/in/nabilbensaid"}
     - {name: "facebook", link: "https://www.facebook.com/nabil.bensaid"}
     - {name: "site", link: "https://www.xing.com/profile/Nabil_BenSaid"}
+- 
+  id: 18
+  name: "Randy"
+  surname: "Gupta"
+  title: "Senior Software Architect JEE"
+  company: "SCARATEC IT-Consulting GmbH"
+  thumbnailUrl: RandyGupta.jpg
+  team: true
+  bio: ""
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Düsseldorf", url: "https://plus.google.com/communities/113782579160655007812" }
+  social: 
+    - {name: "google-plus", link: "https://google.com/+RandyGupta"}
+#    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "github", link: "https://github.com/scaratec"}
+#    - {name: "site", link: "http://"}
 
 # -
 #   id: 99
