@@ -9,6 +9,11 @@
     	endTime: "18:00",
     	sessionIds: [703]
     }
+    - { # Micro-Services, Dittmar (30min) (am besten vor Docker!)
+    	startTime: ":",
+    	endTime: ":",
+    	sessionIds: [103]
+    }
     - { # Docker, Dittmar (30min)
     	startTime: ":",
     	endTime: ":",
@@ -18,11 +23,6 @@
     	startTime: ":",
     	endTime: ":",
     	sessionIds: [102]
-    }
-    - { # Micro-Services, Dittmar (30min)
-    	startTime: ":",
-    	endTime: ":",
-    	sessionIds: [103]
     }
     - { # Android L - Notifications, Wolfram (45min)
     	startTime: ":",

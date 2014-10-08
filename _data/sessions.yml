@@ -17,7 +17,7 @@
   id: 101
   length: 30
   title: "Docker"
-  description: "...and the impact on developer teams. Gaining focus, quality, stability and even saving some time."
+  description: "What is Docker, why it is important and what does it mean for developers. And how do Micro Services fit in. ...and the impact on developer teams. Gaining focus, quality, stability and even saving some time."
   speakers: [10]
 -
   id: 102
