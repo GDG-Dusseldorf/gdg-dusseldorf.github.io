@@ -37,12 +37,12 @@ I hope for a passionate discussion!"
   id: 111
   length: 45
   title: "Android L - Notifications"
-  description: "In this talk I'm going to introduce the changes around notifications in Android L.
-
-Those changes start with a new design of notifications. Though some of those come automagically, you have to add information for other parts to get the best results.
-Another change coming is the ability to present notifications on the lock screen. Obviously not everything should be visible there. Let's see how to keep private stuff private while still making use of this feature. 
-And finally there's the new ability to get the users immediate attention by using the new &quot;Heads-on notifications&quot;.
-
+  description: "In this talk I'm going to introduce the changes around notifications in Android L.<br>
+<br>
+Those changes start with a new design of notifications. Though some of those come automagically, you have to add information for other parts to get the best results.<br>
+Another change coming is the ability to present notifications on the lock screen. Obviously not everything should be visible there. Let's see how to keep private stuff private while still making use of this feature.<br>
+And finally there's the new ability to get the users immediate attention by using the new &quot;Heads-on notifications&quot;.<br>
+<br>
 All this is guided by my firm believe that notifications should inform users but not annoy them!"
   speakers: [11]
 -
