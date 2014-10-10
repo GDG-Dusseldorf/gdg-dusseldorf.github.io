@@ -81,7 +81,7 @@ All this is guided by my firm believe that notifications should inform users but
   id: 131
   length: 45
   title: "Build Wearable Apps"
-  description: "A short introduction on how to create wearable apps which run natively on Android Wear!"
+  description: "<p>In this talk i am going to give you a short introduction in how to build awesome applications which run natively on Android Wear.</p><p>This quickstart covers everything you need to know to get your hands dirty - including newly introduced views for wear, the communication between the wearable and the phone and some tips and tricks you should be aware of when starting developing for Google's latest mobile operating system.</p><p>Take part and be one of the first who create the future for the people's wrists!</p>"
   speakers: [13]
 -
   id: 141
