@@ -88,6 +88,12 @@ This talk provides an introduction in Android TV and the new lean back user inte
   title: "Polymer.dart"
   description: "Use polymer.dart - a Dart port of Polymer — to build structured, encapsulated, client-side web apps with Dart and web components."
   speakers: [18]
+-
+  id: 191
+  length: 45
+  title: "App Distribution and Revenue Models"
+  description: "The goal of the presentation is to share tips, tricks and learnings concerning app distribution and revenue models. I will be using real life examples from my work with German app developers. The talk will cover strategy as well as technical aspects. Google products to be covered are Play and AdMob."
+  speakers: [19]
 
 # -
 #   id: 001

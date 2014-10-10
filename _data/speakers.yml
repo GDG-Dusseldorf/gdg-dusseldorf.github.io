@@ -130,6 +130,21 @@ Systems and application programmer"
 #    - {name: "twitter", link: "http://twitter.com/"}
     - {name: "github", link: "https://github.com/scaratec"}
 #    - {name: "site", link: "http://"}
+-
+  id: 19
+  name: Maxim
+  surname: Mai
+  company: Google
+  title: ""
+  bio: "App strategy, distribution and revenue models are my focus at Google and I advise developers and startups on how to build sustainable app and gaming businesses. I am always looking to connect with top developers and high potential startups."
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "http://www.google.com" }
+  thumbnailUrl: MaximMai.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MaximMaiGoogle"}
+    - {name: "twitter", link: "http://twitter.com/MaximFMai"}
+    - {name: "linkedin", link: "http://ie.linkedin.com/in/maximfmai/"}
 
 # -
 #   id: 99
