@@ -1,12 +1,32 @@
 -
+  id: 10
+  title: "Welcome"
+  place: "Lounge"
+  service: true
+-
   id: 307
   title: "Coffee Break"
-  place: "Hall"
+  place: "Lounge"
+  service: true
+-
+  id: 308
+  title: "Break"
+  place: "Lounge"
+  service: true
+-
+  id: 309
+  title: "Get together / networking / pizza"
+  place: "Lounge"
+  service: true
+-
+  id: 310
+  title: "" # End
+  place: "Lounge"
   service: true
 -
   id: 503
   title: "Lunch Break"
-  place: "Dining room"
+  place: "Lounge"
   service: true
 -
   id: 703
@@ -95,6 +115,12 @@ This talk provides an introduction in Android TV and the new lean back user inte
   description: "The goal of the presentation is to share tips, tricks and learnings concerning app distribution and revenue models. I will be using real life examples from my work with German app developers. The talk will cover strategy as well as technical aspects. Google products to be covered are Play and AdMob."
   speakers: [19]
 -
+  id: 192
+  length: 15
+  title: "Q & A"
+  description: "Questions and answers about App Distribution and Revenue Models"
+  speakers: [19]
+-
   id: 201
   length: 15
   title: "Gradle - Beyond Introduction"
@@ -103,6 +129,13 @@ What is Gradle? What makes it different than the other build tools out there in 
 Get a brief introduction to Gradle in a lightning talk, where I'll try to answer some of these questions.
 <br>
 In the workshop that follows, we'll go beyond - get our hands dirty, explore, hack and experiment.
+Prepare your questions, bring your own code, and we'll look for solutions together. Most importantly - we'll have some fun."
+  speakers: [20]
+-
+  id: 202
+  length: 120
+  title: "Gradle - Beyond Workshop (open end!)"
+  description: "In the workshop, we'll go beyond - get our hands dirty, explore, hack and experiment.
 Prepare your questions, bring your own code, and we'll look for solutions together. Most importantly - we'll have some fun."
   speakers: [20]
 
