@@ -29,7 +29,7 @@
     	endTime: ":",
     	sessionIds: [111]
     }
-    - { # Playing with Material Design Pascal (45min)
+    - { # Playing with Material Design, Pascal (45min)
     	startTime: ":",
     	endTime: ":",
     	sessionIds: [121]
@@ -39,32 +39,32 @@
     	endTime: ":",
     	sessionIds: [131]
     }
-    - { # Machine Learning - Creating smart apps for smart devices (45min)
+    - { # Machine Learning - Creating smart apps for smart devices, Georg (45min)
     	startTime: ":",
     	endTime: ":",
     	sessionIds: [141]
     }
-    - { # Color, Code, Collaboration - Best Practices for Working with Designers (15min)
+    - { # Color, Code, Collaboration - Best Practices for Working with Designers , Dennis&Brian (15min)
     	startTime: ":",
     	endTime: ":",
     	sessionIds: [151]
     }
-    - { # Android TV (30-40min)
+    - { # Android TV, Nabil (30-40min)
     	startTime: ":",
     	endTime: ":",
     	sessionIds: [171]
     }
-    - { # Polymer.dart TV (45min?)
+    - { # Polymer.dart TV, Randy (45min?)
     	startTime: ":",
     	endTime: ":",
     	sessionIds: [181]
     }
-    - { # App Distribution and Revenue Models (45min?)
+    - { # App Distribution and Revenue Models, Maxim (45min?)
     	startTime: ":",
     	endTime: ":",
     	sessionIds: [191]
     }
-    - { # Gradle - Beyond Introduction (Lightning Talk + Workshop)
+    - { # Gradle - Beyond Introduction, Nenad (Lightning Talk + Workshop)
     	startTime: ":",
     	endTime: ":",
     	sessionIds: [201]
