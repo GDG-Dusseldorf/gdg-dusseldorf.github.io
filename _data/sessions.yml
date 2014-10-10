@@ -94,6 +94,19 @@ This talk provides an introduction in Android TV and the new lean back user inte
   title: "App Distribution and Revenue Models"
   description: "The goal of the presentation is to share tips, tricks and learnings concerning app distribution and revenue models. I will be using real life examples from my work with German app developers. The talk will cover strategy as well as technical aspects. Google products to be covered are Play and AdMob."
   speakers: [19]
+-
+  id: 201
+  length: 15
+  title: "Gradle - Beyond Introduction"
+  description: "Since its inception, Gradle has been causing some stir in the development community. Many big players in the industry have adopted it, and recently Google was one of them, choosing it as a build tool for Android.<br>
+What is Gradle? What makes it different than the other build tools out there in the wild? Is it really as so powerful? How can we benefit from it?<br>
+Get a brief introduction to Gradle in a lightning talk, where I'll try to answer some of these questions.
+<br>
+In the workshop that follows, we'll go beyond - get our hands dirty, explore, hack and experiment.
+Prepare your questions, bring your own code, and we'll look for solutions together. Most importantly - we'll have some fun."
+  speakers: [20]
+
+
 
 # -
 #   id: 001

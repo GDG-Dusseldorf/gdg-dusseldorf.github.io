@@ -145,6 +145,19 @@ Systems and application programmer"
     - {name: "google-plus", link: "https://plus.google.com/+MaximMaiGoogle"}
     - {name: "twitter", link: "http://twitter.com/MaximFMai"}
     - {name: "linkedin", link: "http://ie.linkedin.com/in/maximfmai/"}
+-
+  id: 20
+  name: Nenad
+  surname: "Natošević"
+  company:
+  title: "Software Engineer"
+  bio: "Tinker. Hacker. Musician. Fiddling around with computers since the age of 8. Currently develops software in JVM ecosystem. Dedicated life-long learner, in love with all things science and technology."
+  thumbnailUrl: NenadNatosevic.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+NenadNatošević/"}
+    - {name: "twitter", link: "https://twitter.com/Posmatrach"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nenadnatosevic"}
 
 # -
 #   id: 99

@@ -64,6 +64,11 @@
     	endTime: ":",
     	sessionIds: [191]
     }
+    - { # Gradle - Beyond Introduction (Lightning Talk + Workshop)
+    	startTime: ":",
+    	endTime: ":",
+    	sessionIds: [201]
+    }
 
 
 # - 
