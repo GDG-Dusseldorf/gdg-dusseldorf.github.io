@@ -58,7 +58,7 @@ eventDate: "October 26th, 2014"
 typeoutTextValues: '"", "Season", "USA", "Germany", "Düsseldorf"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/become_speaker", text: "Become a speaker"}
+# - {permalink: "/become_speaker", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Register - It's free!"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
