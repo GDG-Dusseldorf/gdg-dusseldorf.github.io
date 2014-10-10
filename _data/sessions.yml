@@ -99,7 +99,7 @@ This talk provides an introduction in Android TV and the new lean back user inte
   length: 15
   title: "Gradle - Beyond Introduction"
   description: "Since its inception, Gradle has been causing some stir in the development community. Many big players in the industry have adopted it, and recently Google was one of them, choosing it as a build tool for Android.<br>
-What is Gradle? What makes it different than the other build tools out there in the wild? Is it really as so powerful? How can we benefit from it?<br>
+What is Gradle? What makes it different than the other build tools out there in the wild? Is it really so powerful? How can we benefit from it?<br>
 Get a brief introduction to Gradle in a lightning talk, where I'll try to answer some of these questions.
 <br>
 In the workshop that follows, we'll go beyond - get our hands dirty, explore, hack and experiment.
