@@ -154,6 +154,8 @@ Systems and application programmer"
   bio: "Tinker. Hacker. Musician. Fiddling around with computers since the age of 8. Currently develops software in JVM ecosystem. Dedicated life-long learner, in love with all things science and technology."
   thumbnailUrl: NenadNatosevic.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Düsseldorf", url: "https://plus.google.com/communities/113782579160655007812" }
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+NenadNatošević/"}
     - {name: "twitter", link: "https://twitter.com/Posmatrach"}
