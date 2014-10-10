@@ -3,72 +3,100 @@
   dateReadable: "October 26"
   tracks: 
     - {title: "Sessions", color: "#90be4e"}
+    - {title: "Sessions", color: "#4e90be"}
+    - {title: "Workshop", color: "#be904e"}
   timeslots:
-    - { # Coming soon ...
+#    - { # Coming soon ...
+#    	startTime: "10:00",
+#    	endTime: "18:00",
+#    	sessionIds: [703]
+#    }
+    - { # Welcome
     	startTime: "10:00",
-    	endTime: "18:00",
-    	sessionIds: [703]
+    	endTime: "10:15",
+    	sessionIds: [10]
     }
-    - { # Micro-Services, Dittmar (30min) (am besten vor Docker!)
-    	startTime: ":",
-    	endTime: ":",
-    	sessionIds: [103]
-    }
-    - { # Docker, Dittmar (30min)
-    	startTime: ":",
-    	endTime: ":",
-    	sessionIds: [101]
-    }
-    - { # Google Go, Dittmar (10min)
-    	startTime: ":",
-    	endTime: ":",
-    	sessionIds: [102]
-    }
-    - { # Android L - Notifications, Wolfram (45min)
-    	startTime: ":",
-    	endTime: ":",
-    	sessionIds: [111]
-    }
-    - { # Playing with Material Design, Pascal (45min)
-    	startTime: ":",
-    	endTime: ":",
-    	sessionIds: [121]
-    }
-    - { # Build Wearable Apps, Frederik (45min)
-    	startTime: ":",
-    	endTime: ":",
-    	sessionIds: [131]
-    }
-    - { # Machine Learning - Creating smart apps for smart devices, Georg (45min)
-    	startTime: ":",
-    	endTime: ":",
-    	sessionIds: [141]
-    }
-    - { # Color, Code, Collaboration - Best Practices for Working with Designers , Dennis&Brian (15min)
-    	startTime: ":",
-    	endTime: ":",
-    	sessionIds: [151]
-    }
-    - { # Android TV, Nabil (30-40min)
-    	startTime: ":",
-    	endTime: ":",
-    	sessionIds: [171]
-    }
-    - { # Polymer.dart TV, Randy (45min?)
-    	startTime: ":",
-    	endTime: ":",
-    	sessionIds: [181]
-    }
-    - { # App Distribution and Revenue Models, Maxim (45min?)
-    	startTime: ":",
-    	endTime: ":",
+    - { # App Distribution and Revenue Models, Maxim (45min)
+    	startTime: "10:15",
+    	endTime: "11:15",
     	sessionIds: [191]
     }
-    - { # Gradle - Beyond Introduction, Nenad (Lightning Talk + Workshop)
+    - { # Q & A : App Distribution and Revenue Models, Maxim (15min)
     	startTime: ":",
     	endTime: ":",
+    	sessionIds: [192],
+        merge: true
+    }
+    - { # Coffee Break
+    	startTime: "11:15",
+    	endTime: "11:30",
+    	sessionIds: [307]
+    }
+    - { # Playing with Material Design, Pascal (45min)
+    	startTime: "11:30",
+    	endTime: "12:15",
+    	sessionIds: [121]
+    }
+    - { # Color, Code, Collaboration - Best Practices for Working with Designers , Dennis&Brian (15min)
+    	startTime: "12:15",
+    	endTime: "12:30",
+    	sessionIds: [151]
+    }
+    - { # Gradle - Beyond Introduction, Nenad (Lightning Talk + Workshop)
+    	startTime: "12:30",
+    	endTime: "12:45",
     	sessionIds: [201]
     }
+    - { # Lunch Break
+    	startTime: "12:45",
+    	endTime: "13:30",
+    	sessionIds: [503]
+    }
+    - { # Google Go, Dittmar (10min) | Machine Learning - Creating smart apps for smart devices, Georg (45min)
+    	startTime: "13:30",
+    	endTime: "14:15",
+    	sessionIds: [102, 141, 202]
+    }
+    - { # Micro-Services, Dittmar (30min)
+    	startTime: ":",
+    	endTime: ":",
+    	sessionIds: [103, 404, 404],
+        merge: true
+    }
+    - { # Polymer.dart TV, Randy (45min?) |  Build Wearable Apps, Frederik (45min)
+    	startTime: "14:15",
+    	endTime: "15:00",
+    	sessionIds: [181, 131 ,404]
+    }
+    - { # Break
+    	startTime: "15:00",
+    	endTime: "15:15",
+    	sessionIds: [308]
+    }
+
+
+    - { # Docker, Dittmar (30min) | Android L - Notifications, Wolfram (45min)
+    	startTime: "15:15",
+    	endTime: "16:00",
+    	sessionIds: [101, 111, 404]
+    }
+    - { # Android TV, Nabil (30-40min)
+    	startTime: "16:00",
+    	endTime: "16:30",
+    	sessionIds: [404, 171, 404]
+    }
+    - { # Get together
+    	startTime: "16:30",
+    	endTime: "18:00",
+    	sessionIds: [309]
+    }
+    - { # Ende
+    	startTime: "18:00",
+    	endTime: "18:00",
+    	sessionIds: [310],
+        merge: true
+    }
+
 
 
 # - 
