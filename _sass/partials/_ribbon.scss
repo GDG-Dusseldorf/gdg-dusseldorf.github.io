@@ -4,6 +4,7 @@ $gdgw-ribbon-border-color: #ed2c82;
 $gde-ribbon-border-color: #db4437;
 $wt-ribbon-border-color: #72e1b3;
 $grandcentrix-ribbon-border-color: #72e1b3;
+$google-ribbon-border-color: #f29100;
 .ribbon-wrapper {
     position: absolute;
     z-index: 5;
@@ -34,6 +35,9 @@ $grandcentrix-ribbon-border-color: #72e1b3;
     }
     .grandcentrix {
         border-right: 4px solid $grandcentrix-ribbon-border-color;
+    }
+    .google {
+        border-right: 4px solid $google-ribbon-border-color;
     }
     .ribbon {
         font-size: 13px;
