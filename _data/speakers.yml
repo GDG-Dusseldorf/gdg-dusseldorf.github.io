@@ -122,14 +122,17 @@ Systems and application programmer"
   company: "SCARATEC IT-Consulting GmbH"
   thumbnailUrl: RandyGupta.jpg
   team: true
-  bio: ""
+  bio: "<p>Randy is focused Software Architecture and Software Development at SCARATEC. His favorite Language is Java EE on Linux operating systems. In his toolbox Randy always carries: git, gradle, IntelliJ IDEA, Google Web Toolkit, Dart and a grml usb-stick to turn everything that crosses his way to decent linux box.</p>
+  <p>The Google Developer Group Düsseldorf is a special baby of Randy. In 2011 he got the first time in touch with the Google Community. The warm welcome of the community and fascination about technology made him stay and later become organizer of the GDG in Düsseldorf.</p>"
   ribbon: 
     - {abbr: "GDG", title: "GDG Düsseldorf", url: "https://plus.google.com/communities/113782579160655007812" }
-  social: 
+    - {abbr: "SCARATEC", title: "SCARATEC IT-Consulting GmbH", url: "https://it.scaratec.com" }
+  social:
     - {name: "google-plus", link: "https://google.com/+RandyGupta"}
-#    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "https://twitter.com/RandyGupta"}
     - {name: "github", link: "https://github.com/scaratec"}
-#    - {name: "site", link: "http://"}
+    - {name: "linkedin", link: "http://de.linkedin.com/in/randygupta"}
+
 -
   id: 19
   name: Maxim

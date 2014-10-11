@@ -106,7 +106,9 @@ This talk provides an introduction in Android TV and the new lean back user inte
   id: 181
   length: 40
   title: "Polymer.dart"
-  description: "Use polymer.dart - a Dart port of Polymer — to build structured, encapsulated, client-side web apps with Dart and web components."
+  description: "<p>Traditional HTML-Pages consist of a vast cascade of elements sharing the same CSS and DOM. With Polymer.dart you can encapsulate your elements by creating your own custom HTML-Tags that you can reuse everywhere without the hassle of adjusting the CSS each time. Polymer.dart can be used to create decent button-elements, forms or whole applications that can be added to every HTML-Page just by using a tag.</p>
+                <p>Even if you don’t intend to create your own custom elements, Polymer already comes with a growing number of ready to use elements.</p>
+                <p>Polymer come in two flavours Polymer which uses traditional technologies like CSS and Javascript. Polymer.dart makes use of the new features of dart. This talk will focus more on Polymer.dart. However the concepts are the same and it is easy to adopt them to Polymer. </p>"
   speakers: [18]
 -
   id: 191
