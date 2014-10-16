@@ -85,7 +85,7 @@ Systems and application programmer"
     - {name: "google-plus", link: "https://www.google.com/+DennisPrieß84"}
 -
   id: 16
-  name: Brian
+  name: Brian Louis
   surname: Ramirez
   company: "grandcentrix GmbH"
   title: "UX Designer"
@@ -97,6 +97,7 @@ Systems and application programmer"
     - {abbr: "grandcentrix", title: "grandcentrix GmbH", url: "http://www.grandcentrix.net/"}
   social: 
     - {name: "twitter", link: "https://twitter.com/BrianLRamirez"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/114762245217473852781"}
 -
   id: 17
   name: Nabil
