@@ -137,13 +137,13 @@ ticketsInfo: "Thank our <a href=\"#partners\">sponsors</a>! This is a free event
   
 ticketsOffers:
  -
-  name: "Say 'Yes' at our Google+ event."
+  name: "Get your DevFest Ticket!"
   price: ""
   priceCurrency: ""
-  ticketsNumber: "100"
-  ribbon: "Google+"
-  buyButtonLink: "https://plus.google.com/b/107373371386267684213/events/c23pd8anqjk3n7moln67d1g4sec"
-  buyButtonText: "Register with Google+"
+  ticketsNumber: "80"
+  ribbon: "Eventbrite"
+  buyButtonLink: "http://www.eventbrite.de/e/devfest-2014-gdg-dusseldorf-tickets-13820971899"
+  buyButtonText: "Register (Eventbrite)"
   ticketContentList: [""]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-10-26T10:00"
