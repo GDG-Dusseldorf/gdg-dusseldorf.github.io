@@ -32,15 +32,15 @@
     	endTime: "11:30",
     	sessionIds: [307]
     }
-    - { # Playing with Material Design, Pascal (45min)
-    	startTime: "11:30",
-    	endTime: "12:15",
-    	sessionIds: [121]
-    }
     - { # Color, Code, Collaboration - Best Practices for Working with Designers , Dennis&Brian (15min)
-    	startTime: "12:15",
-    	endTime: "12:30",
+    	startTime: "11:30",
+    	endTime: "11:45",
     	sessionIds: [151]
+    }
+    - { # Playing with Material Design, Pascal (45min)
+    	startTime: "11:45",
+    	endTime: "12:30",
+    	sessionIds: [121]
     }
     - { # Gradle - Beyond Introduction, Nenad (Lightning Talk + Workshop)
     	startTime: "12:30",
