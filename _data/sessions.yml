@@ -39,12 +39,14 @@
   title: "Docker"
   description: "What is Docker, why it is important and what does it mean for developers. And how do Micro Services fit in. ...and the impact on developer teams. Gaining focus, quality, stability and even saving some time."
   speakers: [10]
+  slides: "https://docs.google.com/presentation/d/1Q55Z42jLa1dkKhJfct8usiOcKjcTNmezSS1NuNl9QRE/edit?usp=sharing"
 -
   id: 102
   length: 10
   title: "Google Go"
   description: "The workhorse in your system."
   speakers: [10]
+  slides: "https://docs.google.com/presentation/d/1QmEOV3BGITHJqaVYfM_Y6GBOeL9EC80yeEoIT6oe_ss/edit?usp=sharing"
 -
   id: 103
   length: 30
@@ -53,6 +55,7 @@
 It will cover pros and cons, the intended limitations, the targeted problems and problems that won't be solved anyway.
 I hope for a passionate discussion!"
   speakers: [10]
+  slides: "https://docs.google.com/presentation/d/1Tbou596s86EAf9n9iWaLMzuB8eMO3Xky3CrLnVi8ebw/edit?usp=sharing"
 -
   id: 111
   length: 45
@@ -77,12 +80,14 @@ All this is guided by my firm believe that notifications should inform users but
   <li>RecyclerView (very short)</li>
 </ul>"
   speakers: [12]
+  slides: "https://docs.google.com/presentation/d/1qz3lEmxLc04qnq9e4nwAFxNJlV1Qg4pBfhUZs0rdt88"
 -
   id: 131
   length: 45
   title: "Build Wearable Apps"
   description: "<p>In this talk i am going to give you a short introduction in how to build awesome applications which run natively on Android Wear.</p><p>This quickstart covers everything you need to know to get your hands dirty - including newly introduced views for wear, the communication between the wearable and the phone and some tips and tricks you should be aware of when starting developing for Google's latest mobile operating system.</p><p>Take part and be one of the first who create the future for the people's wrists!</p>"
   speakers: [13]
+  slides: "https://docs.google.com/presentation/d/17b5t5DWNpn_yVgaX69uQYJvx2wbkaMpH1Ox-Zqt1hpE/edit?usp=sharing"
 -
   id: 141
   length: 45
@@ -102,6 +107,7 @@ All this is guided by my firm believe that notifications should inform users but
   description: "Google announced in its last I/O 2014 developer conference the new Android TV and the next step of Android to enter the living room.
 This talk provides an introduction in Android TV and the new lean back user interface, it shows how to implement Android TV apps and what must be considered when applying the material design guidelines."
   speakers: [17]
+  slides: "https://drive.google.com/file/d/0B3ejc9tWUOaaaGpkNXhFaXYtRkZRdi0yeEZZdEM2UkNUNjNz/view?usp=sharing"
 -
   id: 181
   length: 40
@@ -110,12 +116,14 @@ This talk provides an introduction in Android TV and the new lean back user inte
                 <p>Even if you don’t intend to create your own custom elements, Polymer already comes with a growing number of ready to use elements.</p>
                 <p>Polymer come in two flavours Polymer which uses traditional technologies like CSS and Javascript. Polymer.dart makes use of the new features of dart. This talk will focus more on Polymer.dart. However the concepts are the same and it is easy to adopt them to Polymer. </p>"
   speakers: [18]
+  slides: "https://docs.google.com/presentation/d/11oCQ271TBdF2xi1oSZqnYePwGQb7W5PK5JOjxFXSiJo/edit?usp=sharing"
 -
   id: 191
   length: 45
   title: "App Distribution and Revenue Models"
   description: "The goal of the presentation is to share tips, tricks and learnings concerning app distribution and revenue models. I will be using real life examples from my work with German app developers. The talk will cover strategy as well as technical aspects. Google products to be covered are Play and AdMob."
   speakers: [19]
+  slides: "http://www.maximmai.com/articles/2014/10/23/app-and-game-revenue-models-presentation-from-devfest2014-vienna-karlsruhe-and-dsseldorf"
 -
   id: 192
   length: 15
@@ -133,6 +141,7 @@ Get a brief introduction to Gradle in a lightning talk, where I'll try to answer
 In the workshop that follows, we'll go beyond - get our hands dirty, explore, hack and experiment.
 Prepare your questions, bring your own code, and we'll look for solutions together. Most importantly - we'll have some fun."
   speakers: [20]
+  slides: "https://docs.google.com/presentation/d/1IBiUncsPb_cT4NMdOedWtLqz71D4V4GYl3OxcDMnxrs/edit?usp=sharing"
 -
   id: 202
   length: 120
@@ -140,6 +149,7 @@ Prepare your questions, bring your own code, and we'll look for solutions togeth
   description: "In the workshop, we'll go beyond - get our hands dirty, explore, hack and experiment.
 Prepare your questions, bring your own code, and we'll look for solutions together. Most importantly - we'll have some fun."
   speakers: [20]
+  slides: "https://docs.google.com/presentation/d/1IBiUncsPb_cT4NMdOedWtLqz71D4V4GYl3OxcDMnxrs/edit?usp=sharing"
 
 
 

@@ -14,6 +14,7 @@
 						<h4>{{ session.title }}</h4>
 						<!--<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>-->
 						<!--<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>-->
+						{% if session.slides %}<span class="theme-metadata"><span class="caption">Slides: </span><a href="{{session.slides}}">{{session.slides}}</a></span>{% endif %}
 						<p class="theme-description">{{ session.description }}</p>
 						<hr>
 						<div class="people-details">
