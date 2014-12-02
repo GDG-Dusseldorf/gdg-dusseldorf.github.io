@@ -59,7 +59,7 @@ typeoutTextValues: '"", "Season", "USA", "Germany", "Düsseldorf"'
 typeoutFallback: "Season"
 heroButtons:
 # - {permalink: "/become_speaker", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register - It's free!"}
+# - {permalink: "/#tickets", text: "Register - It's free!"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
