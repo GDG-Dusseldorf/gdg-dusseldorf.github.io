@@ -8,7 +8,7 @@ boomerang.factory('Config', function () {
         'domain'        : 'http://www.gdg-dus.de',
         'cover' : {
             title: 'DevFest 2014',
-            subtitle: 'The DevFest 2014 is taking place on October 26th in Düsseldorf!',
+            subtitle: 'The DevFest 2014 took place on October 26th in Düsseldorf. Thank you all for attending and making it a great success!',
             button: {
                 text: 'Find out more',
                 url: 'http://www.gdg-dus.de/DevFest2014/'
