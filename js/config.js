@@ -8,7 +8,7 @@ boomerang.factory('Config', function () {
         'domain'        : 'http://www.gdg-dus.de',
         'cover' : {
             title: 'Meetup: "Android Auto" and "Scripting"',
-            subtitle: 'Our first meetup in 2015 took place on January 30th in Düsseldorf @ Garage Bilk.',
+            subtitle: 'Our first meetup of 2015 will take place January 30th in Düsseldorf @ Garage Bilk. Join us!',
             button: {
                 text: 'Find out more',
                 url: 'https://plus.google.com/u/0/events/c8mh12mukapsn9i5u1tp7v8qlr8'
