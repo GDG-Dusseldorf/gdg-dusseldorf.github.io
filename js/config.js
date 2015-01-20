@@ -7,7 +7,7 @@ boomerang.factory('Config', function () {
         'pwa_id'        : '5915725140705884785', //picasa web album id, must belong to google+ id above
         'domain'        : 'http://www.gdg-dus.de',
         'cover' : {
-            title: 'Meetup: "Android Auto" and "Scripting"',
+            title: 'Meetup: "Android Auto", "Wear WatchFace" and "Helicopter"',
             subtitle: 'Our first meetup of 2015 will take place January 30th in Düsseldorf @ Garage Bilk. Join us!',
             button: {
                 text: 'Find out more',
