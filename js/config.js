@@ -8,7 +8,7 @@ boomerang.factory('Config', function () {
         'domain'        : 'http://www.gdg-dus.de',
         'cover' : {
             title: 'Meetup: "Android Auto", "Wear WatchFace" and "Helicopter"',
-            subtitle: 'Our first meetup of 2015 will take place January 30th in Düsseldorf @ Garage Bilk. Join us!',
+            subtitle: 'Save the date for our next event in 2015: February 25th, as usual in Düsseldorf @ Garage Bilk. Stay tuned for more soon!',
             button: {
                 text: 'Find out more',
                 url: 'https://plus.google.com/u/0/events/c8mh12mukapsn9i5u1tp7v8qlr8'
