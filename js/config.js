@@ -11,7 +11,7 @@ boomerang.factory('Config', function () {
             subtitle: 'Save the date for our next event in 2015: February 25th, as usual in Düsseldorf @ Garage Bilk. Stay tuned for more soon!',
             button: {
                 text: 'Find out more',
-                url: 'https://plus.google.com/u/0/events/cbkato2a52ei291735ic8uljgcs'
+                url: 'https://plus.google.com/u/0/b/107373371386267684213/events/cslbftume6u01iipin99be1j684'
             }
         }
     };
