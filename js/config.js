@@ -7,7 +7,7 @@ boomerang.factory('Config', function () {
         'pwa_id'        : '5915725140705884785', //picasa web album id, must belong to google+ id above
         'domain'        : 'http://www.gdg-dus.de',
         'cover' : {
-            title: 'Meetup: "Android Auto", "Wear WatchFace" and "Helicopter"',
+            title: 'Next Meetup Topics: "Docker" and the micro framework "Flask"',
             subtitle: 'Save the date for our next event in 2015: February 25th, as usual in Düsseldorf @ Garage Bilk. Stay tuned for more soon!',
             button: {
                 text: 'Find out more',
