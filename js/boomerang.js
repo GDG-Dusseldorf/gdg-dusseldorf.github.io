@@ -1,3 +1,6 @@
+/**
+ * Setting up angular module
+ */
 var boomerang = angular.module('gdgBoomerang', ['ngSanitize', 'ngRoute', 'ui.bootstrap'])
     .config(function ($routeProvider, $locationProvider) {
 
@@ -11,6 +14,9 @@ var boomerang = angular.module('gdgBoomerang', ['ngSanitize', 'ngRoute', 'ui.boo
             otherwise({ redirectTo: '/about' });
     });
 
+/**
+ * MainControl
+ */
 boomerang.controller('MainControl', function ($rootScope, $scope, Config) {
     $scope.chapter_name = Config.name;
     $scope.google_plus_link = 'https://plus.google.com/' + Config.id;
@@ -18,6 +24,9 @@ boomerang.controller('MainControl', function ($rootScope, $scope, Config) {
     $rootScope.canonical = Config.domain;
 });
 
+/**
+ * AboutControl
+ */
 boomerang.controller('AboutControl', function ($scope, $http, $location, $sce, Config) {
     $scope.loading = true;
     $scope.$parent.activeTab = "about";
@@ -34,11 +43,15 @@ boomerang.controller('AboutControl', function ($scope, $http, $location, $sce, C
             $scope.loading = false;
         })
         .error(function (data) {
+            console.error("AboutControl: " + data);
             $scope.desc = "Sorry, we failed to retrieve the About text from the Google+ API.";
             $scope.loading = false;
         });
 });
 
+/**
+ * NewsControl
+ */
 boomerang.controller("NewsControl", function ($scope, $http, $timeout, $filter, $sce, Config) {
     $scope.loading = true;
     $scope.$parent.activeTab = "news";
@@ -135,12 +148,16 @@ boomerang.controller("NewsControl", function ($scope, $http, $timeout, $filter, 
             $scope.loading = false;
         })
         .error(function (response) {
+            console.error("NewsControl: " + response);
             $scope.desc = "Sorry, we failed to retrieve the News from the Google+ API.";
             $scope.loading = false;
             $scope.status = 'ready';
         });
 });
 
+/**
+ * EventsControl
+ */
 boomerang.controller("EventsControl", function ($scope, $http, Config) {
     $scope.loading = true;
     $scope.$parent.activeTab = "events";
@@ -168,6 +185,9 @@ boomerang.controller("EventsControl", function ($scope, $http, Config) {
         });
 });
 
+/**
+ * PhotosControl
+ */
 boomerang.controller("PhotosControl", function ($scope, $http, Config) {
     $scope.loading = true;
     $scope.$parent.activeTab = "photos";
@@ -191,41 +211,46 @@ boomerang.controller("PhotosControl", function ($scope, $http, Config) {
             $scope.loading = false;
         })
         .error(function (data) {
+            console.error("PhotosControl: " + data);
             $scope.error_msg = "Sorry, we failed to retrieve the Photos from the Picasa Web Albums API. Logging out of your Google Account and logging back in may resolve this issue.";
             $scope.loading = false;
         });
 });
 
+/**
+ * HtmlLinky
+ */
+
 // HTML-ified linky from http://plnkr.co/edit/IEpLfZ8gO2B9mJcTKuWY?p=preview
 boomerang.filter('htmlLinky', function($sanitize, linkyFilter) {
-    var ELEMENT_NODE = 1;
-    var TEXT_NODE = 3;
-    var linkifiedDOM = document.createElement('div');
-    var inputDOM = document.createElement('div');
+    var ELEMENT_NODE = 1,
+        TEXT_NODE = 3,
+        linkifiedDOM = document.createElement('div'),
+        inputDOM = document.createElement('div'),
 
-    var linkify = function linkify(startNode) {
-        var i, currentNode;
+        linkify = function linkify(startNode) {
+            var i, currentNode;
 
-        for (i = 0; i < startNode.childNodes.length; i++) {
-            currentNode = startNode.childNodes[i];
+            for (i = 0; i < startNode.childNodes.length; i++) {
+                currentNode = startNode.childNodes[i];
 
-            switch (currentNode.nodeType) {
-                case ELEMENT_NODE:
-                    linkify(currentNode);
-                    break;
-                case TEXT_NODE:
-                    linkifiedDOM.innerHTML = linkyFilter(currentNode.textContent);
-                    i += linkifiedDOM.childNodes.length - 1;
+                switch (currentNode.nodeType) {
+                    case ELEMENT_NODE:
+                        linkify(currentNode);
+                        break;
+                    case TEXT_NODE:
+                        linkifiedDOM.innerHTML = linkyFilter(currentNode.textContent);
+                        i += linkifiedDOM.childNodes.length - 1;
 
-                    while(linkifiedDOM.childNodes.length)
-                        startNode.insertBefore(linkifiedDOM.childNodes[0], currentNode);
+                        while(linkifiedDOM.childNodes.length)
+                            startNode.insertBefore(linkifiedDOM.childNodes[0], currentNode);
 
-                    startNode.removeChild(currentNode);
+                        startNode.removeChild(currentNode);
+                }
             }
-        }
 
-        return startNode;
-    };
+            return startNode;
+        };
 
     return function(input) {
         inputDOM.innerHTML = input;
@@ -233,36 +258,39 @@ boomerang.filter('htmlLinky', function($sanitize, linkyFilter) {
     };
 });
 
+/**
+ * HashLinky
+ */
 boomerang.filter('hashLinky', function($sanitize, linkyFilter) {
-    var ELEMENT_NODE = 1;
-    var TEXT_NODE = 3;
-    var linkifiedDOM = document.createElement('div');
-    var inputDOM = document.createElement('div');
+    var ELEMENT_NODE = 1,
+        TEXT_NODE = 3,
+        linkifiedDOM = document.createElement('div'),
+        inputDOM = document.createElement('div'),
 
-    var hashLinky = function hashLinky(startNode) {
-        var i, currentNode;
+        hashLinky = function hashLinky(startNode) {
+            var i, currentNode;
 
-        for (i = 0; i < startNode.childNodes.length; i++) {
-            currentNode = startNode.childNodes[i];
+            for (i = 0; i < startNode.childNodes.length; i++) {
+                currentNode = startNode.childNodes[i];
 
-            switch (currentNode.nodeType) {
-                case ELEMENT_NODE:
-                    hashLinky(currentNode);
-                    break;
-                case TEXT_NODE:
-                    var hashtagRegex = /#([A-Za-z0-9-_]+)/g;
-                    currentNode.textContent =  currentNode.textContent.replace(hashtagRegex,
-                        '<a href="https://plus.google.com/s/%23$1">#$1</a>');
+                switch (currentNode.nodeType) {
+                    case ELEMENT_NODE:
+                        hashLinky(currentNode);
+                        break;
+                    case TEXT_NODE:
+                        var hashtagRegex = /#([A-Za-z0-9-_]+)/g;
+                        currentNode.textContent =  currentNode.textContent.replace(hashtagRegex,
+                            '<a href="https://plus.google.com/s/%23$1">#$1</a>');
 
-                    linkifiedDOM.innerHTML = currentNode.textContent;
-                    i += linkifiedDOM.childNodes.length - 1;
+                        linkifiedDOM.innerHTML = currentNode.textContent;
+                        i += linkifiedDOM.childNodes.length - 1;
 
-                    while(linkifiedDOM.childNodes.length) {
-                        startNode.insertBefore(linkifiedDOM.childNodes[0], currentNode);
-                    }
-                    startNode.removeChild(currentNode);
+                        while(linkifiedDOM.childNodes.length) {
+                            startNode.insertBefore(linkifiedDOM.childNodes[0], currentNode);
+                        }
+                        startNode.removeChild(currentNode);
+                }
             }
-        }
 
         return startNode;
     };

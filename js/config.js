@@ -1,4 +1,8 @@
+/**
+ * Setting up Boomerang
+ */
 boomerang.factory('Config', function () {
+    "use strict";
     return {
         //modify these
         'name'          : 'GDG Düsseldorf',
