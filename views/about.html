@@ -1,25 +1,48 @@
-<div class="span12">
+﻿<div class="span12">
     <p>&nbsp;</p>
     <div class="gdg_loading" ng-show="loading"></div>
     <div class="row">
         <img ng-show="cover.url" class="span12" ng-src="{{cover.url}}" alt="Google+ Cover Image">
         <div class="span12 hidden-phone" id="cover" ng-show="cover.url">
             <div id="cover-content">
-                <h1 class="span12">{{cover.title}}</h1>
-                <p class="span12">{{cover.subtitle}}</p>
-                <p class="span12">
-                    <a class="btn btn-primary btn-large" ng-href="{{cover.button.url}}" target="_blank">{{cover.button.text}}</a>
-                </p>
+                <div class="span12">
+                    <h1>{{cover.title}}</h1>
+                    <p>{{cover.subtitle}}</p>
+                    <p>
+                        <a class="btn btn-primary btn-large" ng-href="{{cover.button.url}}" target="_blank">{{cover.button.text}}</a>
+                    </p>
+                </div>
             </div>
         </div>
+        <div class="visible-phone span12">
+            <h1>{{cover.title}}</h1>
+            <p>{{cover.subtitle}}</p>
+            <p>
+                <a class="btn btn-primary btn-large" ng-href="{{cover.button.url}}" target="_blank">{{cover.button.text}}</a>
+            </p>
+        </div>
         <hr>
-        <div class="span12"><h1>{{ chapter_name }}</h1></div>
-        <div class="span12" ng-bind-html="desc"></div>
-        <div class="span12">
-            <h4>Sponsors:</h4>
-            <div>
-                <a href="https://developers.google.com/"><img class="sponsor" src="../images/Google-Developers.png" alt="Google Developers" title="Google Developers"></a>
-                <a href="https://it.scaratec.com/"><img class="sponsor" src="../images/sponsor-scaratec.png" alt="Scaratec" title="Scaratec"></a>
+        <div class="row-fluid span12">
+            <div class="span8">
+                <!--<h1>{{ chapter_name }}</h1>-->
+                <h1>GDG Düsseldorf</h1>
+                <p><strong>Die GDG Düsseldorf ist eine Gruppe Technik-interessierter Anwender und Programmierer mit dem Fokus auf die praktische Anwendung der einzelnen Google-Technologien.</strong></p>
+                <p>Weitere Themen, die uns interessieren sind Themen rund um die Softwareentwicklung z.B. mit Java, Web Technologien etc.</p>
+                <p>Treffen finden regelmäßig in der <a href="http://garagebilk.de/">Garage Bilk</a> statt.</p>
+                <p>Die Teilnahme ist selbstverständlich kostenlos und über eine kurze Ankündigung bei erscheinen würden wir uns freuen.</p>
+                <p>Ansprechpartner sind <a href="https://plus.google.com/113393009504918852033" title="Google+">Randy Gupta</a> und <a href="https://plus.google.com/113156548068895538968" title="Google+">Resul Kocyigit</a>.</p>
+                <p>Besuch uns auch auf unsere <a href="https://plus.google.com/u/0/communities/113782579160655007812">Google+ GDG Community</a> Seite</p>
+                <div class="disclaimer muted">
+                    <strong>Disclaimer:</strong> GDG Düsseldorf is an independent group; our activities and the opinions expressed on this +Page should in no way be linked to Google, the corporation.
+                </div>
+                <!--<div ng-bind-html="desc"></div>-->
+            </div>
+            <div class="span4">
+                <h4 class="text-center">Die Treffen werden gesponsert von:</h4>
+                <div class="text-center">
+                    <div class="sponsor"><a href="https://developers.google.com/"><img class="sponsor" src="../images/Google-Developers.png" alt="Google Developers" title="Google Developers"></a></div>
+                    <div class="sponsor"><a href="https://it.scaratec.com/"><img class="sponsor" src="../images/sponsor-scaratec.png" alt="Scaratec" title="Scaratec"></a></div>
+                </div>
             </div>
         </div>
     </div>

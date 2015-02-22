@@ -108,6 +108,13 @@ body {
     width: 64px;
     height: 64px;
 }
+.disclaimer {
+    font-style: italic;
+    margin-top: 20px;
+}
 .sponsor {
+    padding: 5px;
+}
+.footer {
     padding: 20px;
 }
