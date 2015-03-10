@@ -7,11 +7,11 @@ boomerang.factory('Config', function () {
         'pwa_id'        : '5915725140705884785', //picasa web album id, must belong to google+ id above
         'domain'        : 'http://www.gdg-dus.de',
         'cover' : {
-            title: 'DevFest 2014',
-            subtitle: 'The DevFest 2014 is taking place on October 26th in Düsseldorf!',
+            title: 'Next Meetup: "Docker" and "Flask"',
+            subtitle: 'Save the date for our next event in 2015: February 25th, as usual in Düsseldorf @ Garage Bilk. Stay tuned for more soon!',
             button: {
                 text: 'Find out more',
-                url: 'http://www.gdg-dus.de/DevFest2014/'
+                url: 'https://plus.google.com/u/0/b/107373371386267684213/events/cslbftume6u01iipin99be1j684'
             }
         }
     };
