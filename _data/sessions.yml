@@ -1,0 +1,195 @@
+-
+  id: 10
+  title: "Welcome"
+  place: "Lounge"
+  service: true
+-
+  id: 307
+  title: "Break"
+  place: "Lounge"
+  service: true
+-
+  id: 308
+  title: "Break"
+  place: "Lounge"
+  service: true
+-
+  id: 309
+  title: "Get together / networking / pizza"
+  place: "Lounge"
+  service: true
+-
+  id: 310
+  title: "" # End
+  place: "Lounge"
+  service: true
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Lounge"
+  service: true
+-
+  id: 703
+  title: "Detailed schedule coming soon"
+  place: "Lounge"
+  service: true
+-
+  id: 101
+  length: 30
+  title: "Docker"
+  description: "What is Docker, why it is important and what does it mean for developers. And how do Micro Services fit in. ...and the impact on developer teams. Gaining focus, quality, stability and even saving some time."
+  speakers: [10]
+  slides: "https://docs.google.com/presentation/d/1Q55Z42jLa1dkKhJfct8usiOcKjcTNmezSS1NuNl9QRE/edit?usp=sharing"
+-
+  id: 102
+  length: 10
+  title: "Google Go"
+  description: "The workhorse in your system."
+  speakers: [10]
+  slides: "https://docs.google.com/presentation/d/1QmEOV3BGITHJqaVYfM_Y6GBOeL9EC80yeEoIT6oe_ss/edit?usp=sharing"
+-
+  id: 103
+  length: 30
+  title: "Micro-Services"
+  description: "A quick overview of ideas, an approach of a definition and room for re-thinking architectural landscapes.
+It will cover pros and cons, the intended limitations, the targeted problems and problems that won't be solved anyway.
+I hope for a passionate discussion!"
+  speakers: [10]
+  slides: "https://docs.google.com/presentation/d/1Tbou596s86EAf9n9iWaLMzuB8eMO3Xky3CrLnVi8ebw/edit?usp=sharing"
+-
+  id: 111
+  length: 45
+  title: "Android L - Notifications"
+  description: "In this talk I'm going to introduce the changes around notifications in Android L.<br>
+<br>
+Those changes start with a new design of notifications. Though some of those come automagically, you have to add information for other parts to get the best results.<br>
+Another change coming is the ability to present notifications on the lock screen. Obviously not everything should be visible there. Let's see how to keep private stuff private while still making use of this feature.<br>
+And finally there's the new ability to get the users immediate attention by using the new &quot;Heads-on notifications&quot;.<br>
+<br>
+All this is guided by my firm believe that notifications should inform users but not annoy them!"
+  speakers: [11]
+-
+  id: 121
+  length: 45
+  title: "Playing with Material Design"
+  description: "I played around with the new Android L Material Design. I'd like to share my experiences with the new APIs. Here are some of my topics I's like to cover in my presentation:
+<ul>
+  <li>shadows (z index)</li>
+  <li>Activity Transitions</li>
+  <li>Ripples (and styles)</li>
+  <li>RecyclerView (very short)</li>
+</ul>"
+  speakers: [12]
+  slides: "https://docs.google.com/presentation/d/1qz3lEmxLc04qnq9e4nwAFxNJlV1Qg4pBfhUZs0rdt88"
+-
+  id: 131
+  length: 45
+  title: "Build Wearable Apps"
+  description: "<p>In this talk i am going to give you a short introduction in how to build awesome applications which run natively on Android Wear.</p><p>This quickstart covers everything you need to know to get your hands dirty - including newly introduced views for wear, the communication between the wearable and the phone and some tips and tricks you should be aware of when starting developing for Google's latest mobile operating system.</p><p>Take part and be one of the first who create the future for the people's wrists!</p>"
+  speakers: [13]
+  slides: "https://docs.google.com/presentation/d/17b5t5DWNpn_yVgaX69uQYJvx2wbkaMpH1Ox-Zqt1hpE/edit?usp=sharing"
+-
+  id: 141
+  length: 45
+  title: "Machine Learning - Creating smart apps for smart devices"
+  description: "Artificial intelligence and automated learning is a scientific approach to turn computers into smart machines, being capable to use acquired knowledge to master tasks autonomously, thus without instruction or supervision. The fundamental laws of learning theory apply in the same way as for animals or humans, where thorough knowledge has been acquired and used in education for decades. Though still a lot of mathematical and statistical methods are widely used for data analysis and processing, the focus is shifting towards the aspects of perception, training and optimization. Knowledge extraction and representation becomes an evolutionary process, the concluded behavioural rules being developed by adapting and improving them continuously while being used. After giving birth to new intelligent computer species by programmed code, they need education before and during their professional career serving us, others or themselves. The technical art of coding is complemented by the task of how to properly feed and train our electronic kids."
+  speakers: [14]
+-
+  id: 151
+  length: 15
+  title: "Color, Code, Collaboration - Best Practices for Working with Designers"
+  description: "In general, designers turn vague ideas into visual concepts, while developers turn concepts into something concrete. So how do you get everyone speaking the same language to get awesome results? We'll talk about what works and what doesn't."
+  speakers: [15,16]
+-
+  id: 171
+  length: 40
+  title: "Android TV"
+  description: "Google announced in its last I/O 2014 developer conference the new Android TV and the next step of Android to enter the living room.
+This talk provides an introduction in Android TV and the new lean back user interface, it shows how to implement Android TV apps and what must be considered when applying the material design guidelines."
+  speakers: [17]
+  slides: "https://drive.google.com/file/d/0B3ejc9tWUOaaaGpkNXhFaXYtRkZRdi0yeEZZdEM2UkNUNjNz/view?usp=sharing"
+-
+  id: 181
+  length: 40
+  title: "Polymer.dart"
+  description: "<p>Traditional HTML-Pages consist of a vast cascade of elements sharing the same CSS and DOM. With Polymer.dart you can encapsulate your elements by creating your own custom HTML-Tags that you can reuse everywhere without the hassle of adjusting the CSS each time. Polymer.dart can be used to create decent button-elements, forms or whole applications that can be added to every HTML-Page just by using a tag.</p>
+                <p>Even if you don’t intend to create your own custom elements, Polymer already comes with a growing number of ready to use elements.</p>
+                <p>Polymer come in two flavours Polymer which uses traditional technologies like CSS and Javascript. Polymer.dart makes use of the new features of dart. This talk will focus more on Polymer.dart. However the concepts are the same and it is easy to adopt them to Polymer. </p>"
+  speakers: [18]
+  slides: "https://docs.google.com/presentation/d/11oCQ271TBdF2xi1oSZqnYePwGQb7W5PK5JOjxFXSiJo/edit?usp=sharing"
+-
+  id: 191
+  length: 45
+  title: "App Distribution and Revenue Models"
+  description: "The goal of the presentation is to share tips, tricks and learnings concerning app distribution and revenue models. I will be using real life examples from my work with German app developers. The talk will cover strategy as well as technical aspects. Google products to be covered are Play and AdMob."
+  speakers: [19]
+  slides: "http://www.maximmai.com/articles/2014/10/23/app-and-game-revenue-models-presentation-from-devfest2014-vienna-karlsruhe-and-dsseldorf?utm_source=DevFest%20DUS&utm_medium=Link&utm_campaign=DevFest%20Follow-up"
+-
+  id: 192
+  length: 15
+  title: "Q & A"
+  description: "Questions and answers about App Distribution and Revenue Models"
+  speakers: [19]
+-
+  id: 201
+  length: 15
+  title: "Gradle - Beyond Introduction"
+  description: "Since its inception, Gradle has been causing some stir in the development community. Many big players in the industry have adopted it, and recently Google was one of them, choosing it as a build tool for Android.<br>
+What is Gradle? What makes it different than the other build tools out there in the wild? Is it really so powerful? How can we benefit from it?<br>
+Get a brief introduction to Gradle in a lightning talk, where I'll try to answer some of these questions.
+<br>
+In the workshop that follows, we'll go beyond - get our hands dirty, explore, hack and experiment.
+Prepare your questions, bring your own code, and we'll look for solutions together. Most importantly - we'll have some fun."
+  speakers: [20]
+  slides: "https://docs.google.com/presentation/d/1IBiUncsPb_cT4NMdOedWtLqz71D4V4GYl3OxcDMnxrs/edit?usp=sharing"
+-
+  id: 202
+  length: 120
+  title: "Gradle - Beyond Workshop (open end!)"
+  description: "In the workshop, we'll go beyond - get our hands dirty, explore, hack and experiment.
+Prepare your questions, bring your own code, and we'll look for solutions together. Most importantly - we'll have some fun."
+  speakers: [20]
+  slides: "https://docs.google.com/presentation/d/1IBiUncsPb_cT4NMdOedWtLqz71D4V4GYl3OxcDMnxrs/edit?usp=sharing"
+
+
+
+# -
+#   id: 001
+#   title: "Material design: Visual style and imagery"
+#   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+#   subtype: workshop
+#   speakers: [3, 6]
+#   language: en
+#   complexity: "Intermediate"
+# -
+#   id: 002
+#   title: "Building Cloud-powered wearable Apps"
+#   description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
+#   subtype: presentation
+#   speakers: [4, 5]
+#   language: en
+#   complexity: "Beginner"
+# -
+#   id: 003
+#   title: "The world is your playground - go global with Google"
+#   description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+#   subtype: presentation
+#   speakers: [4]
+#   language: en
+#   complexity: "Expert"
+# -
+#   id: 004
+#   title: "Polymer: Interacting with Google Services using nothing but HTML"
+#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+#   subtype: keynote
+#   speakers: [6]
+#   language: uk
+#   complexity: "Beginner"
+# -
+#   id: 005
+#   title: "Test: Interacting with Google Services using nothing but HTML"
+#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+#   subtype: keynote
+#   speakers: [7]
+#   language: en
+#   complexity: "Expert"
