@@ -39,8 +39,15 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     .logo {
         display: inline-block;
         float: left;
-        width: 185px;
-        height: 60px;
+	// 499x70, 90x90
+	// width: 185px;
+        // height: 60px;
+	width: 90px;
+	height: 90px;
+	&.logo-dark {
+		height: 70px;
+		width: 499px;
+	}
         margin-right: 20px;
         transform: scale(.7);
         vertical-align: middle;

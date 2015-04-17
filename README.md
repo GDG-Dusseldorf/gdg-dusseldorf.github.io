@@ -1,4 +1,8 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# GDG Düsseldorf Website
+
+This is the source of http://www.gdg-dus.de.
+
+It is based on Project Zeppelin a GDG DevFest 2014 site template.
 
 ### About 
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 

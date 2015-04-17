@@ -1,15 +1,21 @@
 .logo {
-    background-image: url($logos-sprite);
+ //   background-image: url($logos-sprite);
     background-repeat: no-repeat;
+    //    &.logo-dark {
+    //    	background-position: 0 -1px;
+    //    }
+    //    &.logo-gray {
+    //    	background-position: 0 -63px;
+    //	}
+    &.logo-light {
+        background-image: url("../img/organizers/gdg-dus-badge.svg");
+    }
     &.logo-dark {
-    	background-position: 0 -1px;
+        background-image: url("../img/organizers/gdg-dus.svg");
     }
     &.logo-gray {
-    	background-position: 0 -63px;
-	}
-	&.logo-light {
-	    background-position: 0 -127px;
-	}
+        background-image: url("../img/organizers/gdg-dus-badge.svg");
+    }
 }
 .icon {
     display: inline-block;

@@ -5,10 +5,10 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
+title: "GDG Düsseldorf"
 email: "info@gdg-dus.de"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/DevFest2014"
+description: "Google Developer Group Düsseldorf"
+baseurl: ""
 url: "http://www.gdg-dus.de"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-54645604-1"
@@ -23,7 +23,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://plus.google.com/107373371386267684213/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, gdg dus"
+metaKeywords: "gdg, google, programming, android, chrome, developers, gdg dus"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -39,31 +39,27 @@ becomeSpeakerUrl: "https://docs.google.com/forms/d/1S-z8tlsSXZy0_CvbbeurBVHW1-I1
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {link: "https://plus.google.com/u/0/107373371386267684213", text: "Google+"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+# - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
-# - {permalink: "/hackathon/", text: "Hackathon"}
-# - {permalink: "/become_speaker/", text: "Become a speaker"}
 bottomNavigationLinks:
- - {permalink: "/become_speaker", text: "Become a speaker"}
+# - {permalink: "/become_speaker", text: "Become a speaker"}
 rightNavigationButtons:
- - {permalink: "/#tickets", text: "Register"}
+# - {permalink: "/#tickets", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest<typeout>2014"
-eventDate: "October 26th, 2014"
-typeoutTextValues: '"", "Season", "USA", "Germany", "Düsseldorf"'
-typeoutFallback: "Season"
+heroTitle: "GDG <typeout>"
+eventDate: ""
+typeoutTextValues: '"Dusseldorf", "Düsseldorf"'
+typeoutFallback: "Düsseldorf"
 heroButtons:
 # - {permalink: "/become_speaker", text: "Become a speaker"}
-# - {permalink: "/#tickets", text: "Register - It's free!"}
-# - {permalink: "/#tickets", text: "Buy tickets"}
+
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About GDG Düsseldorf"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "<p>The biggest Google related event in the region carefully crafted for you by the GDG Düsseldorf community will take place on October 26t! Expect a free, multi track conference organized by the developer community of Düsseldorf and focused on networking and exchange of knowledge.</p>
                                                          <p>The conference will cover numerous Topics from the Android Ecosystem like Android Wear, Android L and also Artificial Intelligence applied to Android devices. </p>
@@ -71,22 +67,9 @@ aboutBlock:
  - {title: "Workshop", image: "workshop.jpg", text: "The conference will be also accompanied by a free workshop for gradle. The workshop will strive to crack your issues with gradle. We will not focus on promotion for gradle but on solving your real world problems. So bring in your laptop and let’s see how we can manage your build. " }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
-# Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
-
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -97,21 +80,9 @@ eventAddressLocality: "Düsseldorf"
 eventAddressLocalityRegion: ""
 eventPostalCode: "40215"
 eventAddressCountry: "Germany"
-eventStartTime: "2014-10-26T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-26T18:00"
 eventPlaceCoordinates: "51.209559,6.780611"
 mapCenterCoordinates: "51.209559,6.780611"
 mapMobileCenterCoordinates: "51.209559,6.780611"
-
-# Venue Block
-#venueBlockTitle: "Venue"
-#venueBigImage: "venue_0.jpg"
-#venueSmallImage1: "venue_1.jpg"
-#venueSmallImage2: "venue_2.jpg"
-#venueSmallImage3: "venue_3.jpg"
-#venueTitle: "Kinopalace Cinema"
-#venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -131,51 +102,9 @@ subscribeTitle: "Stay up to date"
 subscribeAction: ""
 subscribeInfo: ""
 
-# Tickets Block
-ticketsTitle: "Free Entry!"
-ticketsInfo: "Thank our <a href=\"#partners\">sponsors</a>! This is a free event, but registration is required."
-  
-ticketsOffers:
- -
-  name: "Get your DevFest Ticket!"
-  price: ""
-  priceCurrency: ""
-  ticketsNumber: "80"
-  ribbon: "Eventbrite"
-  buyButtonLink: "http://www.eventbrite.de/e/devfest-2014-gdg-dusseldorf-tickets-13820971899"
-  buyButtonText: "Register (Eventbrite)"
-  ticketContentList: [""]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-10-26T10:00"
-#  disabled: true
-# -
-#  name: "Last Chance"
-#  price: "450"
-#  priceCurrency: "UAH"
-#  ticketsNumber: "100"
-#  ribbon: "-20%"
-#  featured: true
-#  buyButtonLink: "http://dfua.ticketforevent.com/"
-#  buyButtonText: "Buy Now"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-10-01T00:00"
-#  validThrough: "2014-10-23T23:59"
-#  disabled: true
-# -
-#  name: "Student"
-#  price: "200"
-#  priceCurrency: "UAH"
-#  ticketsNumber: "50"
-#  buyButtonLink: "http://dfua.ticketforevent.com/"
-#  buyButtonText: "Buy Now"
-#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-20T10:00"
-#  validThrough: "2014-10-23T23:59"
-
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://plus.google.com/107373371386267684213/", icon: "google-plus"}
 # - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
@@ -200,108 +129,6 @@ blogTitle: "Latest news"
 blogCommentsEnabled: false
 discusShortName: "GDGDusseldorf"
 
-# Speakers List Block
-showSessions: true
-
 # Team Block
 teamBlockTitle: "The DevFest 2014 Team"
 aboutUs: "The GDG Düsseldorf group are a bunch of enthousiastic people who like to talk about general technology, programming and cool new products. We joined forces bringing you a single day event in the style of a true Google DevFest. This means interesting talks and hands-on labs, brought to you by national and international speakers using Google technology, in an informal setting, an inspirational environment with lots of room for open discussion and time to meet!"
-
-# Logistics Find Way Block
-#findWayTitle: "Find your way here"
-#findWayDistance: "Distance"
-#findWayDriving: "DRIVING"
-#findWayWalking: "WALKING"
-#findWayBicycling: "BICYCLING"
-#findWayTransit: "TRANSIT"
-#findWayFindFlight: "Find Flight"
-#logisticsMapCenterCoordinates: "49.056728, 3.117289"
-#logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-
-# Logistics Direction Details Block
-#directionDetailsImage: "direction-details.jpg"
-#directionDetailsTitle: "Get around Lviv"
-#directionDetailsCards:
-# - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
-# - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
-# - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-#directionDetailsWideCards: 
-# -
-#  title: "Questions?"
-#  subCards:
-#   -
-#    title: "Hotels"
-#    links:
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#   - 
-#    title: "Registration"
-#    links:
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#   -
-#    title: "Attendance Details"
-#    links:
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-
-# Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: false
-
-# Hackathon About Block
-#aboutHackathonTitle: "Meet our themes"
-#hackathonRows:
-# - {title: "", image: "", details: ""}
-
-# Hackathon Judges Block
-#judgesImage: "judges.jpg"
-#judgesTitle: "Judges"
-
-# Hackathon Prizes Block
-#prizesTitle: "Prizes"
-#prizes:
-# - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
-# - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
-# - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
-
-# Hackathon Location Block
-#hackathonLocationBlockTitle: "Location"
-#hackathonLocationName: "Communa"
-#hackathonLocationLink: "http://communa.net.ua/"
-#hackathonStreetAddress: "1 Halytska St"
-#hackathonAddressLocality: "Lviv"
-#hackathonAddressLocalityRegion: "Lvivska"
-#hackathonPostalCode: "79000"
-#hackathonAddressCountry: "Ukraine"
-#hackathonTimeTitle: "Hack through"
-#hackathonStartTime: "2014-10-24T10:00"
-#hackathonDoorTime: "09:00"
-#hackathonEndTime: "2014-10-25T00:00"
-#viewOnMap: "View on Google Maps"
-#hackathonPlaceCoordinates: "49.840999, 24.031144"
-#hackathonMapCenterCoordinates: "49.840696, 24.028754"
-#hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
-
-#hackathonLocationBlockTitle: "Location"
-#hackathonLocationName: ""
-#hackathonLocationLink: ""
-#hackathonStreetAddress: ""
-#hackathonAddressLocality: ""
-#hackathonAddressLocalityRegion: ""
-#hackathonPostalCode: ""
-#hackathonAddressCountry: ""
-#hackathonTimeTitle: ""
-#hackathonStartTime: "2014-00-00T00:00"
-#hackathonDoorTime: "09:00"
-#hackathonEndTime: "2014-00-00T00:00"
-#viewOnMap: "View on Google Maps"
-#hackathonPlaceCoordinates: "4"
-#hackathonMapCenterCoordinates: ""
-#hackathonMapMobileCenterCoordinates: ""

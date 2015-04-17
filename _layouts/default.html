@@ -20,14 +20,6 @@
         </div>
     </div>
 
-    {% if page.modal != null %} 
-        {% include speakers-modals.html %} 
-    {% endif %} 
-
-    {% if page.permalink == '/schedule/' %}
-        {% include sessions-modals.html %} 
-    {% endif %} 
-
     {% if page.permalink == '/team/' %}
         {% include team-modals.html %} 
     {% endif %} 
@@ -82,27 +74,6 @@
                         });
                     }
                 });
-                var rockstarSpeakers = [
-                    {% for speaker in site.data.speakers %}
-                        {% if speaker.rockstar %}
-                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
-                        {% endif %}
-                    {% endfor %}
-                ];
-                rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
-                if(rockstarSpeakers.length > 0) {
-                    var animationDelay = 1500,
-                        count = {{ site.rockstarSpeakersCount }},
-                        colWidth = 12/count;
-                    for(i=0; i<count; i++) {
-                        var clearfix = '<div class="clearfix visible-xs"></div>';
-                        if ((i)%2 != 0) {
-                            clearfix = ""
-                        }
-                        $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>' + clearfix);
-                        animationDelay -= 500;
-                    }
-                }
             });
         {% elsif page.permalink == '/logistics/' %}
             var googleMaps = 'logistics',
