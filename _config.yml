@@ -1,0 +1,134 @@
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
+
+
+# Site Settings
+title: "GDG Düsseldorf"
+email: "info@gdg-dus.de"
+description: "Google Developer Group Düsseldorf"
+baseurl: ""
+url: "http://www.gdg-dus.de"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-54645604-1"
+googleAnalyticsSiteUrl: "www.gdg-dus.de"
+
+# Organizer Info
+organizerName: "GDG Düsseldorf"
+organizerAlternateName: "Google Developer Group Düsseldorf"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerEmail: "info@gdg-dus.de"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "https://plus.google.com/107373371386267684213/"
+
+# Head
+metaKeywords: "gdg, google, programming, android, chrome, developers, gdg dus"
+twitterAccount: "@DevFest"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pUrl: "/become_speaker"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/become_sponsor"
+
+becomeSpeakerUrl: "https://docs.google.com/forms/d/1S-z8tlsSXZy0_CvbbeurBVHW1-I1fL_BNSJUhD57Ckc/viewform"
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {link: "https://plus.google.com/u/0/107373371386267684213", text: "Google+"}
+# - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/team/", text: "Team"}
+# - {permalink: "/logistics/", text: "Logistics"}
+bottomNavigationLinks:
+# - {permalink: "/become_speaker", text: "Become a speaker"}
+rightNavigationButtons:
+# - {permalink: "/#tickets", text: "Register"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "GDG <typeout>"
+eventDate: ""
+typeoutTextValues: '"Dusseldorf", "Düsseldorf"'
+typeoutFallback: "Düsseldorf"
+heroButtons:
+# - {permalink: "/become_speaker", text: "Become a speaker"}
+
+
+# About Block
+aboutTitle: "About GDG Düsseldorf"
+aboutBlock:
+ - {title: "Conference", image: "conference.jpg", text: "<p>The biggest Google related event in the region carefully crafted for you by the GDG Düsseldorf community will take place on October 26t! Expect a free, multi track conference organized by the developer community of Düsseldorf and focused on networking and exchange of knowledge.</p>
+                                                         <p>The conference will cover numerous Topics from the Android Ecosystem like Android Wear, Android L and also Artificial Intelligence applied to Android devices. </p>
+                                                         <p>Those who are more interested on web development will be excited about Polymer.dart, Google Go and Micro Services with Docker.</p>" }
+ - {title: "Workshop", image: "workshop.jpg", text: "The conference will be also accompanied by a free workshop for gradle. The workshop will strive to crack your issues with gradle. We will not focus on promotion for gradle but on solving your real world problems. So bring in your laptop and let’s see how we can manage your build. " }
+# - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Garage Bilk"
+eventLocationLink: "https://garagebilk.de/"
+eventStreetAddress: "Bilker Allee 217"
+eventAddressLocality: "Düsseldorf"
+eventAddressLocalityRegion: ""
+eventPostalCode: "40215"
+eventAddressCountry: "Germany"
+eventPlaceCoordinates: "51.209559,6.780611"
+mapCenterCoordinates: "51.209559,6.780611"
+mapMobileCenterCoordinates: "51.209559,6.780611"
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "devfest"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterFeed: ""
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Stay up to date"
+subscribeAction: ""
+subscribeInfo: ""
+
+# Footer
+socialLinks:
+ - {link: "https://plus.google.com/107373371386267684213/", icon: "google-plus"}
+# - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://plus.google.com/107373371386267684213/", text: "GDG Düsseldorf"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:info@gdg-dus.de", text: "info@gdg-dus.de"}
+   - {permalink: "/impressum/", text: "Impressum"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: false
+discusShortName: "GDGDusseldorf"
+
+# Team Block
+teamBlockTitle: "The DevFest 2014 Team"
+aboutUs: "The GDG Düsseldorf group are a bunch of enthousiastic people who like to talk about general technology, programming and cool new products. We joined forces bringing you a single day event in the style of a true Google DevFest. This means interesting talks and hands-on labs, brought to you by national and international speakers using Google technology, in an informal setting, an inspirational environment with lots of room for open discussion and time to meet!"

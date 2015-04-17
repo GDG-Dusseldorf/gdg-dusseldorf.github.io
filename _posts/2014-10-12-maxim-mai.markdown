@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Boost your app revenue with tips from a Googler"
+date:   2014-10-12 00:21:00
+isStaticPost: false
+---
+
+#### App Distribution and Revenue Models: 
+
+About a 3rd of our members are not only developers but also entrepreneurs. Therefore we are 
+especially happy to welcome Maxim Mai from Google Dublin in his former hometown Düsseldorf, 
+who will give us valuable insights about how to get the most revenue from your Apps. 
+Don’t miss the chance to ask your questions directly to a pro from Google.

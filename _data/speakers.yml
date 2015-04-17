@@ -1,0 +1,248 @@
+-
+  id: 10
+  name: Dittmar
+  surname: Steiner
+  company: "Aptly GmbH"
+  title: "Java and Android Developer"
+  bio: "Long story..."
+  thumbnailUrl: DittmarSteiner.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DittmarSteiner"}
+-
+  id: 11
+  name: Wolfram
+  surname: Rittmeyer
+  company: ""
+  title: "Android and Java Developer"
+  bio: ""
+  thumbnailUrl: WolframRittmeyer.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+  social: 
+    - {name: "google-plus", link: "https://plus.gogle.com/+WolframRittmeyer"}
+    - {name: "twitter", link: "https://twitter.com/RittmeyerW"}
+    - {name: "site", link: "http://www.grokkingandroid.com"}
+-
+  id: 12
+  name: Pascal
+  surname: Welsch
+  company: "grandcentrix GmbH"
+  title: "Android Developer"
+  bio: "Android Native living in Cologne. Started with the Motorola Droid and continued developing Android Apps for 4 years now."
+  thumbnailUrl: PascalWelsch.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+    - {abbr: "grandcentrix", title: "grandcentrix GmbH", url: "http://www.grandcentrix.net/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+PascalWelsch"}
+    - {name: "twitter", link: "https://twitter.com/passsy"}
+    - {name: "github", link: "https://github.com/passsy/"}
+-
+  id: 13
+  name: Frederik
+  surname: Schweiger
+  company: ""
+  title: "Android Geek"
+  bio: ""
+  thumbnailUrl: FrederikSchweiger.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+  social: 
+    - {name: "google-plus", link: "https://www.google.com/+FrederikSchweiger"}
+-
+  id: 14
+  name: Georg
+  surname: Zweschper
+  company: ""
+  title: "Programmer"
+  bio: "Education as mathematics/politics teacher
+Systems and application programmer"
+  thumbnailUrl: GeorgZweschper.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/101778874759352612931"}
+-
+  id: 15
+  name: Dennis
+  surname: Priess
+  company: "grandcentrix GmbH"
+  title: "Android Developer"
+  bio: "Professional Android Developer since 2 years"
+  thumbnailUrl: DennisPriess.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+    - {abbr: "grandcentrix", title: "grandcentrix GmbH", url: "http://www.grandcentrix.net/"}
+  social: 
+    - {name: "google-plus", link: "https://www.google.com/+DennisPrieß84"}
+-
+  id: 16
+  name: Brian Louis
+  surname: Ramirez
+  company: "grandcentrix GmbH"
+  title: "UX Designer"
+  bio: "UX Designer with an interest in coding"
+  thumbnailUrl: BrianRamirez.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+    - {abbr: "grandcentrix", title: "grandcentrix GmbH", url: "http://www.grandcentrix.net/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/BrianLRamirez"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/114762245217473852781"}
+-
+  id: 17
+  name: Nabil
+  surname: Ben Said
+  company:
+  title: "Pragmatic and passionate software architect"
+  bio: "Nabil studied computer science at the technical university Dortmund. He looks back on more than 10 years of professional career as a software developer, software architect and mobile application developer. Today he is leading the mobile application development team at an international full service provider company for mobile value-added services and payment solutions."
+  thumbnailUrl: NabilBenSaid.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Düsseldorf", url: "https://plus.google.com/107373371386267684213"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+NabilBenSaid"}
+    - {name: "twitter", link: "https://twitter.com/nbensaid"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nabilbensaid"}
+    - {name: "facebook", link: "https://www.facebook.com/nabil.bensaid"}
+    - {name: "site", link: "https://www.xing.com/profile/Nabil_BenSaid"}
+- 
+  id: 18
+  name: "Randy"
+  surname: "Gupta"
+  title: "Senior Software Architect JEE"
+  company: "SCARATEC IT-Consulting GmbH"
+  thumbnailUrl: RandyGupta.jpg
+  team: true
+  bio: "<p>Randy is focused Software Architecture and Software Development at SCARATEC. His favorite Language is Java EE on Linux operating systems. In his toolbox Randy always carries: git, gradle, IntelliJ IDEA, Google Web Toolkit, Dart and a grml usb-stick to turn everything that crosses his way to decent linux box.</p>
+  <p>The Google Developer Group Düsseldorf is a special baby of Randy. In 2011 he got the first time in touch with the Google Community. The warm welcome of the community and fascination about technology made him stay and later become organizer of the GDG in Düsseldorf.</p>"
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Düsseldorf", url: "https://plus.google.com/communities/113782579160655007812" }
+    - {abbr: "SCARATEC", title: "SCARATEC IT-Consulting GmbH", url: "https://it.scaratec.com" }
+  social:
+    - {name: "google-plus", link: "https://google.com/+RandyGupta"}
+    - {name: "twitter", link: "https://twitter.com/RandyGupta"}
+    - {name: "github", link: "https://github.com/scaratec"}
+    - {name: "linkedin", link: "http://de.linkedin.com/in/randygupta"}
+
+-
+  id: 19
+  name: Maxim
+  surname: Mai
+  company: Google
+  title: ""
+  bio: "App strategy, distribution and revenue models are my focus at Google and I advise developers and startups on how to build sustainable app and gaming businesses. I am always looking to connect with top developers and high potential startups."
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "http://www.google.com" }
+  thumbnailUrl: MaximMai.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MaximMaiGoogle"}
+    - {name: "twitter", link: "http://twitter.com/MaximFMai"}
+    - {name: "linkedin", link: "http://ie.linkedin.com/in/maximfmai/"}
+-
+  id: 20
+  name: Nenad
+  surname: "Natošević"
+  company:
+  title: "Software Engineer"
+  bio: "Tinker. Hacker. Musician. Fiddling around with computers since the age of 8. Currently develops software in JVM ecosystem. Dedicated life-long learner, in love with all things science and technology."
+  thumbnailUrl: NenadNatosevic.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Düsseldorf", url: "https://plus.google.com/communities/113782579160655007812" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+NenadNatošević/"}
+    - {name: "twitter", link: "https://twitter.com/Posmatrach"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nenadnatosevic"}
+
+# -
+#   id: 99
+#   name:
+#   surname:
+#   company:
+#   title:
+#   bio:
+#   thumbnailUrl:
+#   rockstar: true
+#   social: 
+#     - {name: "google-plus", link: ""}
+#     - {name: "twitter", link: ""}
+#     - {name: "github", link: ""}
+#     - {name: "site", link: ""}
+# - 
+#   id: 3
+#   name: "Dawid"
+#   surname: "Ostrowski"
+#   company: "Google Poland"
+#   title: "Developer Relations Program Manager"
+#   bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+#   thumbnailUrl: DawidOstrowski.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+# - 
+#   id: 4
+#   name: "Dmytro"
+#   surname: "Danylyk"
+#   company: "Lemberg Solutions Limited"
+#   title: "Android Developer"
+#   bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+#   thumbnailUrl: DmytroDanylyk.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
+# - 
+#   id: 5
+#   name: "Mateusz"
+#   surname: "Herych"
+#   company: "Base CRM, GDG Krakow"
+#   title: "Software Engineer"
+#   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+#   thumbnailUrl: MateuszHerych.jpg
+#   rockstar: true
+#   ribbon: 
+#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+#     - {name: "twitter", link: "https://twitter.com/mherych"}
+# - 
+#   id: 6
+#   name: "Roman"
+#   surname: "Mazur"
+#   company: "Stanfy, GDG Kyiv"
+#   title: "Head of Android/Java Unit"
+#   bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+#   thumbnailUrl: RomanMazur.jpg
+#   rockstar: true
+#   ribbon:
+#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+#     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+# - 
+#   id: 7
+#   name: "Valentyn"
+#   surname: "Shybanov"
+#   company: "Twinfield, GDG Kyiv"
+#   title: "Software engineer/country manager"
+#   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+#   thumbnailUrl: ValentynShybanov.jpg
+#   rockstar: true
+#   ribbon:
+#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+#   social: 
+#     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#     - {name: "site", link: "http://olostan.name/"}
