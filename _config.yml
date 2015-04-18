@@ -39,7 +39,9 @@ becomeSpeakerUrl: "https://docs.google.com/forms/d/1S-z8tlsSXZy0_CvbbeurBVHW1-I1
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {link: "https://plus.google.com/u/0/107373371386267684213", text: "Google+"}
+ - {link: "https://plus.google.com/u/0/107373371386267684213", text: "Google+ Page"}
+ - {link: "https://plus.google.com/u/0/communities/113782579160655007812", text: "Google+ Community"}
+ - {link: "https://plus.google.com/u/0/communities/113782579160655007812/events", text: "Events"}
 # - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
@@ -52,7 +54,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG <typeout>"
 eventDate: ""
-typeoutTextValues: '"Dusseldorf", "Düsseldorf"'
+typeoutTextValues: '"Dusseldorf", "Duesseldorf", "Düsseldorf"'
 typeoutFallback: "Düsseldorf"
 heroButtons:
 # - {permalink: "/become_speaker", text: "Become a speaker"}
