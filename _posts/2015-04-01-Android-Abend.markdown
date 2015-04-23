@@ -17,7 +17,7 @@ Hello GDG’ers,
 
 We’ll have brilliant speakers with three awesome presentations waiting to be heard by you - the topics range from Android Auto Media over RxJava to improving your productivity using Trello.
 
-The presentations: +Wolfram Rittmeyer and +Pascal Welsch will introduce you to the world of RxJava. +Resul Kocyigit is going to make some noise - he introduces us to the media universe on Android Auto and, last but not least, +Johan Bové puts the cherry on the cake with his talk about the project management application Trello and how to use it to get things done.
+The presentations: +Wolfram Rittmeyer and +Pascal Welsch will introduce you to the world of RxJava. +Resul Kocyigit is going to make some noise - he introduces us to the media universe on Android Auto and, last but not least, +Giulio Petek will take us on a ride through the world of MVVM and teach us how it can help you to improve your code's cleanness, maintainability and testability.
 
 As usual, this event and the extremely delicious pizza will be sponsored by Scaratec. Check them out here: https://it.scaratec.com/
 
