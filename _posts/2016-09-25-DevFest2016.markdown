@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "DevFest 2016"
+date:   2016-09-25 19:00:00
+isStaticPost: false
+---
+
+### DevFest 2016
+
+The GDG Düsseldorf DevFest 2016 is coming up! 2014 we held a very
+popular "DevFest", 2015 we took a break - and now it is 2016 and we
+are back again!
+
+Mark the dates! #GDGDus will host Devfest2016, a developer conference,
+the weekend of October 22 and 23. Details will follow, however we
+wanted to make sure everyone is aware and that everyone can block the
+date. It will be possible to join for one or both days.
+
+Website for the event: https://duesseldorf.devfest.de/
+
+Buy your tickets through
+[Eventbrite "GDGDus-DevFest2016"](https://www.eventbrite.de/e/gdgdus-devfest2016-weekend-tickets-27623283986?aff=es2﻿).
+
+Hope to see you all there!
+
+## Location
+
+The DevFest will happen in the stylish and modern Sipgate offices near
+the beautiful Medienhafen, Düsseldorf’s center of creativity and
+innovation:
+
+Gladbacher Straße 74
+D-40219 Düsseldorf
+
+
+##Childcare
+
+We are especially happy to offer a childcare during the whole
+conference. Just drop us a short line when you buy your tickets to
+inform us that you require childcare and you’re good to go!
