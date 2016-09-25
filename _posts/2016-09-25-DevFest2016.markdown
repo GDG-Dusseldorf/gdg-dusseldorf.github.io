@@ -14,7 +14,7 @@ the weekend of October 22 and 23. Details will follow, however we
 wanted to make sure everyone is aware and that everyone can block the
 date. It will be possible to join for one or both days.
 
-Website for the event: https://duesseldorf.devfest.de/
+Website for the event: [https://duesseldorf.devfest.de/](https://duesseldorf.devfest.de/)
 
 Buy your tickets through
 [Eventbrite "GDGDus-DevFest2016"](https://www.eventbrite.de/e/gdgdus-devfest2016-weekend-tickets-27623283986?aff=es2﻿).
